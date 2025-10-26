@@ -4,6 +4,7 @@ import random
 from datetime import datetime
 import csv
 
+# Variáveis globais para controle de IDs.
 ULTIMO_ID_MODULO = 0
 ULTIMO_ID_AULA = 0
 
@@ -18,11 +19,10 @@ IDS_AULAS_REAIS = list(range(1, 1001))
 # Configurando o gerador de dados para a língua portuguesa.
 fake = Faker('pt_BR')
 
+# Função para exportar os dados gerados para arquivos CSV.
 def exportar_para_csv():
     colunas_alunos = ['nome', 'email', 'data_nascimento', 'data_cadastro']
-
     caminho_arquivo = 'data/alunos.csv'
-
     with open(caminho_arquivo, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=colunas_alunos)
         writer.writeheader()
@@ -30,9 +30,7 @@ def exportar_para_csv():
             writer.writerow(aluno)
 
     colunas_instrutores = ['nome', 'email', 'especialidade', 'biografia']
-
     caminho_arquivo = 'data/instrutores.csv'
-
     with open(caminho_arquivo, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=colunas_instrutores)
         writer.writeheader()
@@ -40,9 +38,7 @@ def exportar_para_csv():
             writer.writerow(instrutor)
 
     colunas_cursos = ['titulo', 'descricao', 'categoria_id', 'instrutor_id', 'preco', 'carga_horaria', 'nivel', 'data_criacao']
-
     caminho_arquivo = 'data/cursos.csv'
-
     with open(caminho_arquivo, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=colunas_cursos)
         writer.writeheader()
@@ -50,9 +46,7 @@ def exportar_para_csv():
             writer.writerow(curso)
 
     colunas_modulos = ['id', 'curso_id', 'titulo', 'ordem', 'descricao']
-
     caminho_arquivo = 'data/modulos.csv'
-
     with open(caminho_arquivo, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=colunas_modulos)
         writer.writeheader()
@@ -60,9 +54,7 @@ def exportar_para_csv():
             writer.writerow(modulo)
     
     colunas_aulas = ['id', 'modulo_id', 'titulo', 'ordem', 'duracao_minutos', 'tipo']
-
     caminho_arquivo = 'data/aulas.csv'
-
     with open(caminho_arquivo, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=colunas_aulas)
         writer.writeheader()
@@ -70,9 +62,7 @@ def exportar_para_csv():
             writer.writerow(aula)
     
     colunas_matriculas = ['id', 'aluno_id', 'curso_id', 'data_matricula', 'data_conclusao', 'status', 'valor_pago']
-
     caminho_arquivo = 'data/matriculas.csv'
-
     with open(caminho_arquivo, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=colunas_matriculas)
         writer.writeheader()
@@ -80,9 +70,7 @@ def exportar_para_csv():
             writer.writerow(matricula)
     
     colunas_progresso = ['matricula_id', 'aula_id', 'concluida', 'data_conclusao', 'tempo_assistido_minutos']
-
     caminho_arquivo = 'data/progresso_aulas.csv'
-
     with open(caminho_arquivo, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=colunas_progresso)
         writer.writeheader()
@@ -90,9 +78,7 @@ def exportar_para_csv():
             writer.writerow(progresso)
 
     colunas_avaliacoes = ['matricula_id', 'curso_id', 'nota', 'comentario', 'data_avaliacao']
-
     caminho_arquivo = 'data/avaliacoes.csv'
-
     with open(caminho_arquivo, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=colunas_avaliacoes)
         writer.writeheader()
@@ -212,7 +198,6 @@ def gerar_cursos(quantidade):
 
 def gerar_aulas(curso_id, quantidade):
 
-    
     global ULTIMO_ID_AULA, ULTIMO_ID_MODULO
     
     if not isinstance(curso_id, int) or curso_id <= 0:
@@ -221,7 +206,6 @@ def gerar_aulas(curso_id, quantidade):
         raise ValueError("quantidade deve ser um inteiro positivo")
     
     if quantidade > 500:
-        print("⚠️ Limitando a 500 aulas")
         quantidade = 500
     
     modulos = []
@@ -393,19 +377,13 @@ def gerar_matriculas(quantidade):
             
     return matriculas, progresso_total, avaliacoes
 
+# Chamando as funções para gerar dados fictícios.
+
 dados_dos_alunos = gerar_alunos(30)
-for aluno in dados_dos_alunos:
-   print(aluno)
-   
 
 dados_dos_instrutores = gerar_instrutores(10)
-for instrutor in dados_dos_instrutores:
-    print(instrutor)
-    
 
 dados_dos_cursos = gerar_cursos(20)
-for curso in dados_dos_cursos:
-    print(curso)
 
 dados_dos_modulos = []
 dados_das_aulas = []
@@ -415,14 +393,6 @@ for curso_id in range(4, 24):
     dados_dos_modulos.extend(modulos)
     dados_das_aulas.extend(aulas)
 
-    print(f" Total: {len(dados_dos_modulos)} módulos e {len(dados_das_aulas)} aulas gerados!")
-
     dados_das_matriculas, dados_do_progresso, dados_das_avaliacoes = gerar_matriculas(100)
 
-    exportar_para_csv()
-    
-
-
-
-    
-
+exportar_para_csv()
