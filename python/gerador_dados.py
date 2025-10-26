@@ -4,6 +4,11 @@ import random
 from datetime import datetime
 import csv
 
+ULTIMO_ID_MODULO = 0
+ULTIMO_ID_AULA = 0
+
+
+
 # Configurando o gerador de dados para a língua portuguesa.
 fake = Faker('pt_BR')
 
@@ -38,9 +43,25 @@ def exportar_para_csv():
         for curso in dados_dos_cursos:
             writer.writerow(curso)
 
+    colunas_modulos = ['id', 'curso_id', 'titulo', 'ordem', 'descricao']
 
+    caminho_arquivo = 'data/modulos.csv'
 
+    with open(caminho_arquivo, 'w', newline='', encoding='utf-8') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=colunas_modulos)
+        writer.writeheader()
+        for modulo in dados_dos_modulos:
+            writer.writerow(modulo)
+    
+    colunas_aulas = ['id', 'modulo_id', 'titulo', 'ordem', 'duracao_minutos', 'tipo']
 
+    caminho_arquivo = 'data/aulas.csv'
+
+    with open(caminho_arquivo, 'w', newline='', encoding='utf-8') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=colunas_aulas)
+        writer.writeheader()
+        for aula in dados_das_aulas:
+            writer.writerow(aula)
 
 # Função para gerar os dados fictícios dos alunos.
 def gerar_alunos(quantidade):
@@ -151,14 +172,101 @@ def gerar_cursos(quantidade):
         }
         cursos.append(curso)
     return cursos
+
+
+def gerar_aulas(curso_id, quantidade):
+
     
-
-
-
+    global ULTIMO_ID_AULA, ULTIMO_ID_MODULO
     
+    if not isinstance(curso_id, int) or curso_id <= 0:
+        raise ValueError("curso_id deve ser um inteiro positivo")
+    if not isinstance(quantidade, int) or quantidade <= 0:
+        raise ValueError("quantidade deve ser um inteiro positivo")
+    
+    if quantidade > 500:
+        print("⚠️ Limitando a 500 aulas")
+        quantidade = 500
+    
+    modulos = []
+    aulas = []
 
+    temas_modulos = [
+        "Fundamentos e Introdução",
+        "Conceitos Básicos",
+        "Técnicas Avançadas",
+        "Prática e Exercícios",
+        "Projetos Reais",
+        "Otimização e Performance",
+        "Boas Práticas",
+        "Ferramentas e Recursos",
+        "Casos de Uso",
+        "Conclusão e Próximos Passos"
+    ]
 
-   
+    descricao_modulos = [
+        f"Neste módulo, você mergulhará em conhecimento. Vamos cobrir desde a instalação das ferramentas necessárias até as primeiras linhas de código. Essencial para criar sua base de conhecimento.",
+        f"Chegou a hora de colocar a mão na massa! O módulo é focado em exercícios práticos e na construção de um mini-projeto. Ao final, você terá a confiança para aplicar o que aprendeu.",
+        f"Com este módulo, você explorará técnicas avançadas de otimização e performance. Iremos além do básico para garantir que seus projetos sejam rápidos, robustos e sigam as melhores práticas do mercado.",
+        f"Este módulo final, consolida todo o conhecimento adquirido. Revisaremos os pontos principais e faremos um projeto de conclusão. O próximo passo para a sua certificação começa aqui!"
+    ]
+    
+    num_modulos = random.randint(3, 6)  
+    aulas_por_modulo = quantidade // num_modulos
+    aulas_restantes = quantidade % num_modulos
+    
+    for i in range(num_modulos):
+       
+        ULTIMO_ID_MODULO += 1
+
+        tema_modulo = random.choice(temas_modulos)
+        descricao = random.choice(descricao_modulos)
+        
+        modulo = {
+            'id': ULTIMO_ID_MODULO,
+            'curso_id': curso_id,
+            'titulo': f"Módulo {i+1}: {tema_modulo}",
+            'ordem': i + 1,
+            'descricao': descricao 
+        }
+        modulos.append(modulo)
+        
+        if i == num_modulos - 1:  
+            num_aulas_modulo = aulas_por_modulo + aulas_restantes
+        else:
+            num_aulas_modulo = aulas_por_modulo
+        
+        for j in range(num_aulas_modulo):
+
+            ULTIMO_ID_AULA += 1
+            
+            tipo_aula = random.choices(
+                ['Vídeo', 'Texto', 'Quiz'],
+                weights=[60, 25, 15],  
+                k=1
+            )[0]
+            
+            titulo = f"{random.choice(['Introdução a', 'Como Funciona', 'Implementando'])} {fake.catch_phrase()}"
+            
+            if tipo_aula == 'Vídeo':
+                duracao = random.randint(8, 45)  
+            elif tipo_aula == 'Texto':
+                duracao = random.randint(5, 20)
+            else: 
+                duracao = random.randint(5, 15)
+            
+            aula = {
+                'id': ULTIMO_ID_AULA,
+                'modulo_id': ULTIMO_ID_MODULO,
+                'titulo': titulo,
+                'ordem': j + 1, 
+                'duracao_minutos': duracao,
+                'tipo': tipo_aula
+            }
+            aulas.append(aula)
+    
+    return modulos, aulas
+
 dados_dos_alunos = gerar_alunos(30)
 for aluno in dados_dos_alunos:
    print(aluno)
@@ -173,4 +281,20 @@ dados_dos_cursos = gerar_cursos(20)
 for curso in dados_dos_cursos:
     print(curso)
 
+dados_dos_modulos = []
+dados_das_aulas = []
+
+for curso_id in range(4, 24): 
+    modulos, aulas = gerar_aulas(curso_id, 50)
+    dados_dos_modulos.extend(modulos)
+    dados_das_aulas.extend(aulas)
+
+    print(f" Total: {len(dados_dos_modulos)} módulos e {len(dados_das_aulas)} aulas gerados!")
+
     exportar_para_csv()
+    
+
+
+
+    
+
