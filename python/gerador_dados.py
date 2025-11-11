@@ -4,14 +4,25 @@ import random
 from datetime import datetime
 import csv
 
+# Variáveis globais para controle de IDs.
+ULTIMO_ID_MODULO = 0
+ULTIMO_ID_AULA = 0
+
+ULTIMO_ID_MATRICULA = 0
+ULTIMO_ID_PROGRESSO = 0
+
+IDS_ALUNOS_REAIS = list(range(1, 31))
+IDS_CURSOS_REAIS = list(range(4, 24))    
+IDS_AULAS_REAIS = list(range(1, 1001))
+
+
 # Configurando o gerador de dados para a língua portuguesa.
 fake = Faker('pt_BR')
 
+# Função para exportar os dados gerados para arquivos CSV.
 def exportar_para_csv():
     colunas_alunos = ['nome', 'email', 'data_nascimento', 'data_cadastro']
-
     caminho_arquivo = 'data/alunos.csv'
-
     with open(caminho_arquivo, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=colunas_alunos)
         writer.writeheader()
@@ -19,9 +30,7 @@ def exportar_para_csv():
             writer.writerow(aluno)
 
     colunas_instrutores = ['nome', 'email', 'especialidade', 'biografia']
-
     caminho_arquivo = 'data/instrutores.csv'
-
     with open(caminho_arquivo, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=colunas_instrutores)
         writer.writeheader()
@@ -29,18 +38,52 @@ def exportar_para_csv():
             writer.writerow(instrutor)
 
     colunas_cursos = ['titulo', 'descricao', 'categoria_id', 'instrutor_id', 'preco', 'carga_horaria', 'nivel', 'data_criacao']
-
     caminho_arquivo = 'data/cursos.csv'
-
     with open(caminho_arquivo, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=colunas_cursos)
         writer.writeheader()
         for curso in dados_dos_cursos:
             writer.writerow(curso)
 
+    colunas_modulos = ['id', 'curso_id', 'titulo', 'ordem', 'descricao']
+    caminho_arquivo = 'data/modulos.csv'
+    with open(caminho_arquivo, 'w', newline='', encoding='utf-8') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=colunas_modulos)
+        writer.writeheader()
+        for modulo in dados_dos_modulos:
+            writer.writerow(modulo)
+    
+    colunas_aulas = ['id', 'modulo_id', 'titulo', 'ordem', 'duracao_minutos', 'tipo']
+    caminho_arquivo = 'data/aulas.csv'
+    with open(caminho_arquivo, 'w', newline='', encoding='utf-8') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=colunas_aulas)
+        writer.writeheader()
+        for aula in dados_das_aulas:
+            writer.writerow(aula)
+    
+    colunas_matriculas = ['id', 'aluno_id', 'curso_id', 'data_matricula', 'data_conclusao', 'status', 'valor_pago']
+    caminho_arquivo = 'data/matriculas.csv'
+    with open(caminho_arquivo, 'w', newline='', encoding='utf-8') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=colunas_matriculas)
+        writer.writeheader()
+        for matricula in dados_das_matriculas:
+            writer.writerow(matricula)
+    
+    colunas_progresso = ['matricula_id', 'aula_id', 'concluida', 'data_conclusao', 'tempo_assistido_minutos']
+    caminho_arquivo = 'data/progresso_aulas.csv'
+    with open(caminho_arquivo, 'w', newline='', encoding='utf-8') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=colunas_progresso)
+        writer.writeheader()
+        for progresso in dados_do_progresso:
+            writer.writerow(progresso)
 
-
-
+    colunas_avaliacoes = ['matricula_id', 'curso_id', 'nota', 'comentario', 'data_avaliacao']
+    caminho_arquivo = 'data/avaliacoes.csv'
+    with open(caminho_arquivo, 'w', newline='', encoding='utf-8') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=colunas_avaliacoes)
+        writer.writeheader()
+        for avaliacao in dados_das_avaliacoes:
+            writer.writerow(avaliacao)
 
 # Função para gerar os dados fictícios dos alunos.
 def gerar_alunos(quantidade):
@@ -151,26 +194,205 @@ def gerar_cursos(quantidade):
         }
         cursos.append(curso)
     return cursos
+
+
+def gerar_aulas(curso_id, quantidade):
+
+    global ULTIMO_ID_AULA, ULTIMO_ID_MODULO
     
-
-
-
+    if not isinstance(curso_id, int) or curso_id <= 0:
+        raise ValueError("curso_id deve ser um inteiro positivo")
+    if not isinstance(quantidade, int) or quantidade <= 0:
+        raise ValueError("quantidade deve ser um inteiro positivo")
     
+    if quantidade > 500:
+        quantidade = 500
+    
+    modulos = []
+    aulas = []
 
+    temas_modulos = [
+        "Fundamentos e Introdução",
+        "Conceitos Básicos",
+        "Técnicas Avançadas",
+        "Prática e Exercícios",
+        "Projetos Reais",
+        "Otimização e Performance",
+        "Boas Práticas",
+        "Ferramentas e Recursos",
+        "Casos de Uso",
+        "Conclusão e Próximos Passos"
+    ]
 
-   
+    descricao_modulos = [
+        f"Neste módulo, você mergulhará em conhecimento. Vamos cobrir desde a instalação das ferramentas necessárias até as primeiras linhas de código. Essencial para criar sua base de conhecimento.",
+        f"Chegou a hora de colocar a mão na massa! O módulo é focado em exercícios práticos e na construção de um mini-projeto. Ao final, você terá a confiança para aplicar o que aprendeu.",
+        f"Com este módulo, você explorará técnicas avançadas de otimização e performance. Iremos além do básico para garantir que seus projetos sejam rápidos, robustos e sigam as melhores práticas do mercado.",
+        f"Este módulo final, consolida todo o conhecimento adquirido. Revisaremos os pontos principais e faremos um projeto de conclusão. O próximo passo para a sua certificação começa aqui!"
+    ]
+    
+    num_modulos = random.randint(3, 6)  
+    aulas_por_modulo = quantidade // num_modulos
+    aulas_restantes = quantidade % num_modulos
+    
+    for i in range(num_modulos):
+       
+        ULTIMO_ID_MODULO += 1
+
+        tema_modulo = random.choice(temas_modulos)
+        descricao = random.choice(descricao_modulos)
+        
+        modulo = {
+            'id': ULTIMO_ID_MODULO,
+            'curso_id': curso_id,
+            'titulo': f"Módulo {i+1}: {tema_modulo}",
+            'ordem': i + 1,
+            'descricao': descricao 
+        }
+        modulos.append(modulo)
+        
+        if i == num_modulos - 1:  
+            num_aulas_modulo = aulas_por_modulo + aulas_restantes
+        else:
+            num_aulas_modulo = aulas_por_modulo
+        
+        for j in range(num_aulas_modulo):
+
+            ULTIMO_ID_AULA += 1
+            
+            tipo_aula = random.choices(
+                ['Vídeo', 'Texto', 'Quiz'],
+                weights=[60, 25, 15],  
+                k=1
+            )[0]
+            
+            titulo = f"{random.choice(['Introdução a', 'Como Funciona', 'Implementando'])} {fake.catch_phrase()}"
+            
+            if tipo_aula == 'Vídeo':
+                duracao = random.randint(8, 45)  
+            elif tipo_aula == 'Texto':
+                duracao = random.randint(5, 20)
+            else: 
+                duracao = random.randint(5, 15)
+            
+            aula = {
+                'id': ULTIMO_ID_AULA,
+                'modulo_id': ULTIMO_ID_MODULO,
+                'titulo': titulo,
+                'ordem': j + 1, 
+                'duracao_minutos': duracao,
+                'tipo': tipo_aula
+            }
+            aulas.append(aula)
+    
+    return modulos, aulas
+
+def gerar_matriculas(quantidade):
+    
+    global ULTIMO_ID_MATRICULA, ULTIMO_ID_PROGRESSO
+    
+    matriculas = []
+    progresso_total = []
+    avaliacoes = []
+    
+    for _ in range(quantidade):
+        ULTIMO_ID_MATRICULA += 1
+        
+        
+        aluno_id = random.choice(IDS_ALUNOS_REAIS)
+        curso_id = random.choice(IDS_CURSOS_REAIS)
+        
+        
+        status = random.choices(['ativa', 'concluída', 'cancelada'], weights=[60, 25, 15], k=1)[0]
+        
+        data_matricula = fake.date_time_between(start_date='-2y', end_date='-3m')
+        
+       
+        data_conclusao_matricula = None
+        if status == 'concluída':
+            data_conclusao_matricula = fake.date_time_between(start_date=data_matricula, end_date='now')
+        
+        matricula_valor = round(random.uniform(49.90, 499.90), 2)
+        
+        
+        matriculas.append({
+            'id': ULTIMO_ID_MATRICULA, 
+            'aluno_id': aluno_id, 
+            'curso_id': curso_id,
+            'data_matricula': data_matricula, 
+            'data_conclusao': data_conclusao_matricula, 
+            'status': status.capitalize(), 
+            'valor_pago': matricula_valor
+        })
+        
+       
+        if status != 'cancelada':
+            
+            
+            if status == 'concluída':
+                percentual_concluido = random.uniform(0.9, 1.0) 
+            else: 
+                percentual_concluido = random.uniform(0.3, 0.7) 
+
+            
+            num_aulas_a_processar = int(len(IDS_AULAS_REAIS) * 0.5)
+            aulas_processar = random.sample(IDS_AULAS_REAIS, k=num_aulas_a_processar) 
+            
+            for aula_id in aulas_processar:
+                ULTIMO_ID_PROGRESSO += 1
+                
+                
+                concluida = random.random() < percentual_concluido
+                
+                progresso_total.append({
+                    'matricula_id': ULTIMO_ID_MATRICULA, 
+                    'aula_id': aula_id, 
+                    'concluida': concluida,
+                    'data_conclusao': fake.date_time_between(start_date=data_matricula, end_date='now') if concluida else None,
+                    'tempo_assistido_minutos': random.randint(1, 45) if concluida else 0
+                })
+
+        tamplate_comentario = [
+           "Curso excelente! Aprendi muito e recomento a todos que estão começando na área.",
+           "O conteúdo foi muito bem explicado e os exemplos práticos ajudaram bastante.",
+           "Gostei do curso, mas senti falta de mais exercícios práticos.",
+           "O instrutor foi muito claro e objetivo. A didática dele facilitou meu aprendizado.",
+           "Curso muito bom, mas poderia ter mais material complementar para estudo.",
+           "Gostei bastante! Indico muito!",
+           "O curso superou minhas expectativas. Conteúdo de alta qualidade."
+       ]
+    
+        comentario = random.choice(tamplate_comentario)
+
+        if status == 'concluída':
+            data_avaliacao_final = fake.date_time_between(start_date=data_conclusao_matricula, end_date='now')
+            nota = random.randint(3, 5)
+            avaliacoes.append({
+                'matricula_id': ULTIMO_ID_MATRICULA, 
+                'curso_id': curso_id, 
+                'nota': nota,
+                'comentario': comentario,
+                'data_avaliacao': data_avaliacao_final
+            })
+            
+    return matriculas, progresso_total, avaliacoes
+
+# Chamando as funções para gerar dados fictícios.
+
 dados_dos_alunos = gerar_alunos(30)
-for aluno in dados_dos_alunos:
-   print(aluno)
-   
 
 dados_dos_instrutores = gerar_instrutores(10)
-for instrutor in dados_dos_instrutores:
-    print(instrutor)
-    
 
 dados_dos_cursos = gerar_cursos(20)
-for curso in dados_dos_cursos:
-    print(curso)
 
-    exportar_para_csv()
+dados_dos_modulos = []
+dados_das_aulas = []
+
+for curso_id in range(4, 24): 
+    modulos, aulas = gerar_aulas(curso_id, 50)
+    dados_dos_modulos.extend(modulos)
+    dados_das_aulas.extend(aulas)
+
+    dados_das_matriculas, dados_do_progresso, dados_das_avaliacoes = gerar_matriculas(100)
+
+exportar_para_csv()

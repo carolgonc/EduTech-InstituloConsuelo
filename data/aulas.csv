@@ -1,0 +1,1001 @@
+id,modulo_id,titulo,ordem,duracao_minutos,tipo
+1,1,Como Funciona A vantagem de realizar seus sonhos com força total,1,31,Vídeo
+2,1,Como Funciona O conforto de avançar simplesmente,2,19,Vídeo
+3,1,Introdução a A simplicidade de concretizar seus projetos direto da fonte,3,27,Vídeo
+4,1,Como Funciona A certeza de concretizar seus projetos naturalmente,4,44,Vídeo
+5,1,Como Funciona A certeza de ganhar com força total,5,11,Quiz
+6,1,Implementando O poder de avançar antes de tudo,6,41,Vídeo
+7,1,Introdução a O direito de inovar simplesmente,7,14,Vídeo
+8,1,Introdução a O direito de ganhar sem preocupação,8,26,Vídeo
+9,1,Como Funciona A segurança de conseguir de maneira eficaz,9,12,Quiz
+10,1,Como Funciona A possibilidade de ganhar com confiança,10,11,Vídeo
+11,2,Implementando O poder de mudar com força total,1,19,Vídeo
+12,2,Implementando A vantagem de mudar com toda a tranquilidade,2,23,Vídeo
+13,2,Introdução a O poder de atingir seus objetivos de maneira eficaz,3,8,Quiz
+14,2,Introdução a A liberdade de atingir seus objetivos mais rapidamente,4,44,Vídeo
+15,2,Como Funciona O conforto de atingir seus objetivos antes de tudo,5,45,Vídeo
+16,2,Como Funciona O prazer de ganhar sem preocupação,6,43,Vídeo
+17,2,Como Funciona A certeza de inovar simplesmente,7,15,Vídeo
+18,2,Introdução a A vantagem de atingir seus objetivos mais rapidamente,8,17,Vídeo
+19,2,Como Funciona O direito de evoluir simplesmente,9,14,Texto
+20,2,Implementando O poder de avançar mais rapidamente,10,11,Texto
+21,3,Introdução a A simplicidade de evoluir simplesmente,1,6,Quiz
+22,3,Como Funciona A simplicidade de inovar em estado puro,2,11,Vídeo
+23,3,Introdução a A liberdade de concretizar seus projetos mais rapidamente,3,22,Vídeo
+24,3,Introdução a A simplicidade de ganhar com toda a tranquilidade,4,29,Vídeo
+25,3,Introdução a O prazer de realizar seus sonhos direto da fonte,5,15,Texto
+26,3,Implementando A simplicidade de ganhar simplesmente,6,19,Texto
+27,3,Implementando O poder de ganhar naturalmente,7,29,Vídeo
+28,3,Introdução a O direito de realizar seus sonhos antes de tudo,8,28,Vídeo
+29,3,Introdução a A segurança de atingir seus objetivos em estado puro,9,34,Vídeo
+30,3,Implementando O prazer de inovar naturalmente,10,43,Vídeo
+31,4,Como Funciona A certeza de mudar simplesmente,1,16,Texto
+32,4,Como Funciona A segurança de inovar naturalmente,2,21,Vídeo
+33,4,Como Funciona O conforto de ganhar com toda a tranquilidade,3,39,Vídeo
+34,4,Introdução a A segurança de realizar seus sonhos com toda a tranquilidade,4,5,Quiz
+35,4,Como Funciona A segurança de concretizar seus projetos direto da fonte,5,43,Vídeo
+36,4,Implementando O poder de conseguir mais facilmente,6,5,Quiz
+37,4,Implementando O prazer de realizar seus sonhos sem preocupação,7,17,Texto
+38,4,Implementando O conforto de realizar seus sonhos de maneira eficaz,8,18,Texto
+39,4,Implementando O prazer de conseguir de maneira eficaz,9,8,Texto
+40,4,Como Funciona A simplicidade de conseguir sem preocupação,10,42,Vídeo
+41,5,Implementando A certeza de concretizar seus projetos em estado puro,1,14,Texto
+42,5,Implementando O prazer de inovar em estado puro,2,13,Vídeo
+43,5,Introdução a A arte de atingir seus objetivos naturalmente,3,9,Quiz
+44,5,Implementando A segurança de atingir seus objetivos em estado puro,4,8,Texto
+45,5,Implementando A simplicidade de avançar mais facilmente,5,34,Vídeo
+46,5,Implementando A possibilidade de concretizar seus projetos em estado puro,6,29,Vídeo
+47,5,Implementando A liberdade de ganhar sem preocupação,7,15,Vídeo
+48,5,Introdução a A segurança de realizar seus sonhos sem preocupação,8,7,Texto
+49,5,Como Funciona O direito de conseguir com confiança,9,8,Texto
+50,5,Implementando O prazer de conseguir simplesmente,10,26,Vídeo
+51,6,Introdução a A arte de mudar mais facilmente,1,18,Vídeo
+52,6,Como Funciona A vantagem de realizar seus sonhos com toda a tranquilidade,2,13,Texto
+53,6,Introdução a A certeza de atingir seus objetivos em estado puro,3,20,Vídeo
+54,6,Implementando A certeza de inovar com confiança,4,29,Vídeo
+55,6,Implementando A simplicidade de ganhar mais facilmente,5,9,Vídeo
+56,6,Introdução a A certeza de conseguir com toda a tranquilidade,6,13,Vídeo
+57,6,Introdução a A arte de avançar em estado puro,7,21,Vídeo
+58,6,Implementando A arte de avançar mais facilmente,8,21,Vídeo
+59,6,Implementando A vantagem de inovar antes de tudo,9,14,Vídeo
+60,6,Introdução a A liberdade de concretizar seus projetos com confiança,10,21,Vídeo
+61,7,Como Funciona A certeza de atingir seus objetivos antes de tudo,1,9,Vídeo
+62,7,Introdução a A segurança de atingir seus objetivos simplesmente,2,31,Vídeo
+63,7,Implementando O conforto de inovar simplesmente,3,28,Vídeo
+64,7,Como Funciona O conforto de mudar direto da fonte,4,37,Vídeo
+65,7,Introdução a A possibilidade de mudar antes de tudo,5,16,Vídeo
+66,7,Introdução a O poder de inovar naturalmente,6,6,Quiz
+67,7,Introdução a O prazer de mudar com força total,7,38,Vídeo
+68,7,Implementando A certeza de conseguir naturalmente,8,9,Texto
+69,7,Implementando O poder de atingir seus objetivos em estado puro,9,37,Vídeo
+70,7,Implementando A arte de mudar naturalmente,10,41,Vídeo
+71,8,Introdução a O prazer de mudar naturalmente,1,38,Vídeo
+72,8,Implementando O poder de avançar naturalmente,2,12,Texto
+73,8,Como Funciona O poder de mudar de maneira eficaz,3,14,Texto
+74,8,Como Funciona A possibilidade de mudar com confiança,4,7,Quiz
+75,8,Introdução a A arte de avançar de maneira eficaz,5,12,Texto
+76,8,Introdução a O poder de ganhar naturalmente,6,9,Quiz
+77,8,Implementando A simplicidade de avançar com confiança,7,7,Quiz
+78,8,Como Funciona A vantagem de evoluir antes de tudo,8,30,Vídeo
+79,8,Introdução a O conforto de avançar com toda a tranquilidade,9,20,Vídeo
+80,8,Introdução a A vantagem de conseguir com toda a tranquilidade,10,8,Texto
+81,9,Implementando O prazer de evoluir sem preocupação,1,39,Vídeo
+82,9,Como Funciona A vantagem de inovar com confiança,2,18,Texto
+83,9,Implementando A simplicidade de avançar com força total,3,6,Quiz
+84,9,Introdução a O poder de inovar direto da fonte,4,41,Vídeo
+85,9,Como Funciona O conforto de ganhar mais facilmente,5,32,Vídeo
+86,9,Introdução a A certeza de realizar seus sonhos direto da fonte,6,11,Vídeo
+87,9,Introdução a A liberdade de ganhar com força total,7,9,Quiz
+88,9,Como Funciona A vantagem de atingir seus objetivos sem preocupação,8,7,Quiz
+89,9,Como Funciona O poder de concretizar seus projetos simplesmente,9,22,Vídeo
+90,9,Como Funciona A certeza de realizar seus sonhos mais facilmente,10,24,Vídeo
+91,10,Implementando A vantagem de mudar antes de tudo,1,38,Vídeo
+92,10,Implementando A simplicidade de conseguir direto da fonte,2,20,Texto
+93,10,Implementando O poder de ganhar com força total,3,6,Quiz
+94,10,Introdução a A possibilidade de evoluir sem preocupação,4,12,Texto
+95,10,Implementando A certeza de ganhar mais facilmente,5,33,Vídeo
+96,10,Implementando A simplicidade de concretizar seus projetos mais rapidamente,6,22,Vídeo
+97,10,Como Funciona A vantagem de realizar seus sonhos antes de tudo,7,42,Vídeo
+98,10,Implementando A liberdade de realizar seus sonhos naturalmente,8,6,Texto
+99,10,Introdução a A arte de concretizar seus projetos sem preocupação,9,31,Vídeo
+100,10,Introdução a A possibilidade de evoluir mais rapidamente,10,15,Vídeo
+101,11,Introdução a O conforto de atingir seus objetivos antes de tudo,1,10,Quiz
+102,11,Implementando A liberdade de ganhar mais facilmente,2,41,Vídeo
+103,11,Introdução a O prazer de evoluir de maneira eficaz,3,40,Vídeo
+104,11,Como Funciona A arte de avançar com toda a tranquilidade,4,18,Texto
+105,11,Como Funciona O poder de ganhar antes de tudo,5,18,Vídeo
+106,11,Como Funciona O prazer de concretizar seus projetos antes de tudo,6,13,Texto
+107,11,Introdução a A simplicidade de conseguir com força total,7,37,Vídeo
+108,11,Introdução a A possibilidade de mudar antes de tudo,8,6,Quiz
+109,12,Introdução a O conforto de ganhar de maneira eficaz,1,13,Texto
+110,12,Introdução a A simplicidade de inovar simplesmente,2,5,Quiz
+111,12,Introdução a A possibilidade de atingir seus objetivos naturalmente,3,31,Vídeo
+112,12,Implementando A arte de realizar seus sonhos simplesmente,4,10,Vídeo
+113,12,Como Funciona O conforto de evoluir em estado puro,5,20,Texto
+114,12,Introdução a A certeza de atingir seus objetivos com força total,6,8,Quiz
+115,12,Introdução a O direito de inovar mais rapidamente,7,5,Quiz
+116,12,Implementando A certeza de evoluir de maneira eficaz,8,7,Texto
+117,13,Implementando A simplicidade de atingir seus objetivos direto da fonte,1,16,Texto
+118,13,Como Funciona A certeza de avançar simplesmente,2,5,Quiz
+119,13,Implementando A segurança de concretizar seus projetos com toda a tranquilidade,3,10,Vídeo
+120,13,Implementando O poder de evoluir de maneira eficaz,4,23,Vídeo
+121,13,Como Funciona A possibilidade de concretizar seus projetos antes de tudo,5,20,Texto
+122,13,Introdução a A liberdade de ganhar com força total,6,32,Vídeo
+123,13,Introdução a A simplicidade de concretizar seus projetos naturalmente,7,13,Vídeo
+124,13,Introdução a A segurança de evoluir direto da fonte,8,18,Texto
+125,14,Introdução a O direito de conseguir com toda a tranquilidade,1,28,Vídeo
+126,14,Como Funciona A simplicidade de concretizar seus projetos com toda a tranquilidade,2,15,Vídeo
+127,14,Implementando A possibilidade de ganhar com confiança,3,12,Vídeo
+128,14,Como Funciona A certeza de inovar antes de tudo,4,15,Vídeo
+129,14,Implementando O poder de ganhar antes de tudo,5,22,Vídeo
+130,14,Implementando O poder de conseguir simplesmente,6,16,Vídeo
+131,14,Como Funciona O poder de atingir seus objetivos mais rapidamente,7,28,Vídeo
+132,14,Como Funciona A vantagem de ganhar de maneira eficaz,8,6,Texto
+133,15,Implementando A arte de realizar seus sonhos mais rapidamente,1,17,Vídeo
+134,15,Introdução a A certeza de conseguir naturalmente,2,13,Vídeo
+135,15,Introdução a A certeza de atingir seus objetivos antes de tudo,3,19,Texto
+136,15,Como Funciona A liberdade de evoluir de maneira eficaz,4,9,Quiz
+137,15,Como Funciona A simplicidade de mudar mais rapidamente,5,29,Vídeo
+138,15,Introdução a A segurança de conseguir sem preocupação,6,39,Vídeo
+139,15,Introdução a O conforto de evoluir direto da fonte,7,19,Texto
+140,15,Introdução a O conforto de evoluir simplesmente,8,13,Vídeo
+141,16,Introdução a A certeza de atingir seus objetivos com toda a tranquilidade,1,10,Vídeo
+142,16,Implementando O direito de concretizar seus projetos com toda a tranquilidade,2,24,Vídeo
+143,16,Como Funciona A segurança de ganhar mais rapidamente,3,14,Quiz
+144,16,Introdução a A simplicidade de concretizar seus projetos direto da fonte,4,41,Vídeo
+145,16,Implementando O prazer de avançar de maneira eficaz,5,24,Vídeo
+146,16,Implementando A simplicidade de atingir seus objetivos mais rapidamente,6,45,Vídeo
+147,16,Implementando A vantagem de evoluir antes de tudo,7,10,Quiz
+148,16,Introdução a A arte de realizar seus sonhos sem preocupação,8,14,Quiz
+149,16,Como Funciona O prazer de avançar direto da fonte,9,15,Texto
+150,16,Introdução a A segurança de conseguir de maneira eficaz,10,12,Quiz
+151,17,Introdução a A liberdade de realizar seus sonhos sem preocupação,1,16,Texto
+152,17,Como Funciona A arte de concretizar seus projetos direto da fonte,2,16,Vídeo
+153,17,Introdução a A segurança de mudar naturalmente,3,45,Vídeo
+154,17,Implementando O prazer de inovar mais rapidamente,4,9,Quiz
+155,17,Introdução a O conforto de realizar seus sonhos mais rapidamente,5,9,Vídeo
+156,17,Como Funciona A segurança de inovar com força total,6,17,Vídeo
+157,17,Como Funciona A liberdade de atingir seus objetivos direto da fonte,7,17,Texto
+158,17,Como Funciona O prazer de evoluir de maneira eficaz,8,36,Vídeo
+159,17,Como Funciona A arte de mudar naturalmente,9,28,Vídeo
+160,17,Como Funciona A arte de avançar simplesmente,10,23,Vídeo
+161,17,Como Funciona A certeza de concretizar seus projetos com força total,11,19,Vídeo
+162,17,Implementando A arte de concretizar seus projetos antes de tudo,12,7,Texto
+163,18,Implementando A liberdade de inovar com toda a tranquilidade,1,19,Vídeo
+164,18,Como Funciona A certeza de ganhar direto da fonte,2,40,Vídeo
+165,18,Implementando A certeza de evoluir sem preocupação,3,24,Vídeo
+166,18,Como Funciona A certeza de realizar seus sonhos antes de tudo,4,15,Vídeo
+167,18,Introdução a O direito de mudar direto da fonte,5,30,Vídeo
+168,18,Introdução a O direito de ganhar sem preocupação,6,12,Texto
+169,18,Introdução a A segurança de conseguir em estado puro,7,20,Vídeo
+170,18,Introdução a A segurança de avançar antes de tudo,8,10,Quiz
+171,18,Introdução a A simplicidade de concretizar seus projetos antes de tudo,9,17,Vídeo
+172,18,Como Funciona A segurança de inovar com força total,10,15,Quiz
+173,18,Introdução a O poder de realizar seus sonhos direto da fonte,11,23,Vídeo
+174,18,Introdução a A vantagem de concretizar seus projetos simplesmente,12,11,Vídeo
+175,19,Como Funciona A vantagem de avançar de maneira eficaz,1,14,Quiz
+176,19,Implementando A arte de concretizar seus projetos direto da fonte,2,9,Texto
+177,19,Implementando O direito de realizar seus sonhos com confiança,3,11,Quiz
+178,19,Introdução a A certeza de avançar sem preocupação,4,10,Vídeo
+179,19,Como Funciona O prazer de avançar simplesmente,5,21,Vídeo
+180,19,Como Funciona O conforto de concretizar seus projetos antes de tudo,6,13,Quiz
+181,19,Implementando O prazer de ganhar naturalmente,7,8,Quiz
+182,19,Como Funciona A liberdade de avançar sem preocupação,8,37,Vídeo
+183,19,Como Funciona A vantagem de inovar mais facilmente,9,15,Vídeo
+184,19,Implementando O poder de avançar com confiança,10,44,Vídeo
+185,19,Introdução a A liberdade de ganhar com confiança,11,26,Vídeo
+186,19,Introdução a A vantagem de atingir seus objetivos em estado puro,12,16,Texto
+187,20,Introdução a O poder de evoluir com força total,1,37,Vídeo
+188,20,Introdução a A certeza de atingir seus objetivos antes de tudo,2,28,Vídeo
+189,20,Como Funciona O prazer de ganhar simplesmente,3,44,Vídeo
+190,20,Introdução a A certeza de concretizar seus projetos em estado puro,4,12,Texto
+191,20,Como Funciona A vantagem de evoluir sem preocupação,5,12,Texto
+192,20,Introdução a A liberdade de inovar mais facilmente,6,13,Vídeo
+193,20,Introdução a A possibilidade de inovar de maneira eficaz,7,30,Vídeo
+194,20,Implementando O poder de conseguir direto da fonte,8,24,Vídeo
+195,20,Implementando A segurança de avançar mais rapidamente,9,35,Vídeo
+196,20,Implementando A liberdade de inovar naturalmente,10,14,Texto
+197,20,Como Funciona A vantagem de ganhar mais facilmente,11,7,Texto
+198,20,Implementando A arte de atingir seus objetivos simplesmente,12,9,Quiz
+199,20,Implementando A possibilidade de inovar com confiança,13,27,Vídeo
+200,20,Implementando A arte de evoluir de maneira eficaz,14,7,Texto
+201,21,Como Funciona A segurança de ganhar naturalmente,1,34,Vídeo
+202,21,Implementando O conforto de inovar antes de tudo,2,16,Vídeo
+203,21,Introdução a A vantagem de mudar mais rapidamente,3,41,Vídeo
+204,21,Introdução a A possibilidade de mudar de maneira eficaz,4,25,Vídeo
+205,21,Introdução a A liberdade de realizar seus sonhos em estado puro,5,23,Vídeo
+206,21,Introdução a A certeza de inovar naturalmente,6,6,Texto
+207,21,Como Funciona A possibilidade de mudar sem preocupação,7,33,Vídeo
+208,21,Introdução a A simplicidade de mudar com toda a tranquilidade,8,17,Vídeo
+209,22,Introdução a A simplicidade de ganhar antes de tudo,1,36,Vídeo
+210,22,Implementando A certeza de mudar simplesmente,2,19,Vídeo
+211,22,Implementando A arte de mudar sem preocupação,3,31,Vídeo
+212,22,Implementando O poder de realizar seus sonhos com força total,4,7,Quiz
+213,22,Como Funciona A simplicidade de atingir seus objetivos de maneira eficaz,5,37,Vídeo
+214,22,Introdução a A vantagem de mudar simplesmente,6,14,Quiz
+215,22,Introdução a A simplicidade de avançar direto da fonte,7,19,Texto
+216,22,Implementando O conforto de ganhar com confiança,8,5,Texto
+217,23,Implementando A simplicidade de atingir seus objetivos com confiança,1,19,Texto
+218,23,Como Funciona A simplicidade de atingir seus objetivos antes de tudo,2,14,Vídeo
+219,23,Implementando O prazer de conseguir em estado puro,3,6,Texto
+220,23,Como Funciona A liberdade de realizar seus sonhos antes de tudo,4,5,Texto
+221,23,Implementando O direito de evoluir de maneira eficaz,5,41,Vídeo
+222,23,Implementando O conforto de mudar de maneira eficaz,6,30,Vídeo
+223,23,Implementando A certeza de conseguir em estado puro,7,25,Vídeo
+224,23,Implementando A arte de concretizar seus projetos mais facilmente,8,17,Vídeo
+225,24,Como Funciona O conforto de conseguir antes de tudo,1,20,Vídeo
+226,24,Como Funciona O poder de realizar seus sonhos antes de tudo,2,18,Vídeo
+227,24,Como Funciona A possibilidade de ganhar de maneira eficaz,3,18,Texto
+228,24,Como Funciona O conforto de evoluir com força total,4,11,Quiz
+229,24,Introdução a A simplicidade de realizar seus sonhos direto da fonte,5,28,Vídeo
+230,24,Implementando A certeza de avançar direto da fonte,6,7,Texto
+231,24,Como Funciona O poder de ganhar direto da fonte,7,36,Vídeo
+232,24,Introdução a A segurança de conseguir mais rapidamente,8,23,Vídeo
+233,25,Introdução a A vantagem de mudar naturalmente,1,12,Quiz
+234,25,Como Funciona A possibilidade de realizar seus sonhos sem preocupação,2,23,Vídeo
+235,25,Implementando O poder de avançar com confiança,3,6,Quiz
+236,25,Como Funciona A arte de atingir seus objetivos mais facilmente,4,11,Quiz
+237,25,Implementando A simplicidade de evoluir com força total,5,16,Texto
+238,25,Como Funciona A certeza de evoluir direto da fonte,6,6,Texto
+239,25,Como Funciona O conforto de conseguir simplesmente,7,12,Texto
+240,25,Introdução a A possibilidade de atingir seus objetivos mais facilmente,8,42,Vídeo
+241,26,Introdução a A segurança de avançar com toda a tranquilidade,1,41,Vídeo
+242,26,Implementando O prazer de inovar mais rapidamente,2,14,Quiz
+243,26,Implementando A vantagem de ganhar com toda a tranquilidade,3,6,Quiz
+244,26,Como Funciona A segurança de mudar simplesmente,4,36,Vídeo
+245,26,Implementando O prazer de conseguir mais rapidamente,5,29,Vídeo
+246,26,Como Funciona O poder de concretizar seus projetos simplesmente,6,8,Texto
+247,26,Como Funciona A liberdade de evoluir com confiança,7,37,Vídeo
+248,26,Implementando A segurança de conseguir mais facilmente,8,45,Vídeo
+249,26,Introdução a A possibilidade de inovar de maneira eficaz,9,25,Vídeo
+250,26,Implementando A segurança de atingir seus objetivos com força total,10,18,Texto
+251,27,Introdução a A certeza de ganhar mais facilmente,1,21,Vídeo
+252,27,Introdução a O direito de realizar seus sonhos antes de tudo,2,7,Texto
+253,27,Implementando A segurança de inovar mais facilmente,3,33,Vídeo
+254,27,Introdução a A vantagem de avançar com força total,4,22,Vídeo
+255,27,Introdução a A vantagem de conseguir com toda a tranquilidade,5,8,Vídeo
+256,27,Introdução a A certeza de realizar seus sonhos sem preocupação,6,35,Vídeo
+257,27,Introdução a A simplicidade de ganhar de maneira eficaz,7,8,Quiz
+258,27,Implementando O poder de evoluir com força total,8,18,Texto
+259,27,Introdução a A segurança de ganhar naturalmente,9,14,Texto
+260,27,Introdução a A simplicidade de inovar de maneira eficaz,10,19,Texto
+261,27,Implementando A arte de mudar com confiança,11,26,Vídeo
+262,27,Implementando A liberdade de evoluir com confiança,12,29,Vídeo
+263,27,Introdução a O conforto de atingir seus objetivos em estado puro,13,34,Vídeo
+264,27,Como Funciona O conforto de mudar sem preocupação,14,10,Quiz
+265,27,Implementando A simplicidade de realizar seus sonhos antes de tudo,15,29,Vídeo
+266,27,Introdução a A certeza de ganhar com confiança,16,25,Vídeo
+267,28,Como Funciona A simplicidade de atingir seus objetivos antes de tudo,1,15,Quiz
+268,28,Como Funciona A vantagem de realizar seus sonhos mais facilmente,2,24,Vídeo
+269,28,Implementando O direito de avançar simplesmente,3,38,Vídeo
+270,28,Como Funciona O direito de concretizar seus projetos sem preocupação,4,18,Vídeo
+271,28,Introdução a A liberdade de mudar mais rapidamente,5,6,Texto
+272,28,Como Funciona A arte de realizar seus sonhos mais rapidamente,6,7,Quiz
+273,28,Como Funciona O poder de inovar com força total,7,41,Vídeo
+274,28,Implementando O direito de ganhar simplesmente,8,39,Vídeo
+275,28,Como Funciona O conforto de conseguir sem preocupação,9,10,Vídeo
+276,28,Implementando A vantagem de conseguir mais rapidamente,10,38,Vídeo
+277,28,Introdução a A simplicidade de mudar simplesmente,11,40,Vídeo
+278,28,Como Funciona A arte de realizar seus sonhos antes de tudo,12,45,Vídeo
+279,28,Como Funciona A liberdade de inovar mais facilmente,13,18,Vídeo
+280,28,Implementando A liberdade de ganhar simplesmente,14,13,Quiz
+281,28,Introdução a O conforto de mudar sem preocupação,15,21,Vídeo
+282,28,Implementando A segurança de mudar mais facilmente,16,45,Vídeo
+283,29,Implementando A certeza de atingir seus objetivos naturalmente,1,12,Quiz
+284,29,Introdução a O prazer de conseguir mais rapidamente,2,12,Texto
+285,29,Implementando A simplicidade de concretizar seus projetos direto da fonte,3,34,Vídeo
+286,29,Implementando A possibilidade de avançar com força total,4,14,Texto
+287,29,Implementando O prazer de conseguir sem preocupação,5,24,Vídeo
+288,29,Introdução a O direito de mudar simplesmente,6,28,Vídeo
+289,29,Introdução a O prazer de inovar mais rapidamente,7,11,Texto
+290,29,Introdução a O direito de mudar com força total,8,12,Vídeo
+291,29,Como Funciona A possibilidade de atingir seus objetivos de maneira eficaz,9,19,Texto
+292,29,Como Funciona A segurança de atingir seus objetivos com confiança,10,12,Texto
+293,29,Introdução a A possibilidade de mudar mais rapidamente,11,11,Vídeo
+294,29,Como Funciona O prazer de atingir seus objetivos direto da fonte,12,20,Vídeo
+295,29,Implementando A certeza de inovar antes de tudo,13,11,Quiz
+296,29,Implementando O prazer de ganhar mais facilmente,14,8,Vídeo
+297,29,Implementando A arte de concretizar seus projetos sem preocupação,15,22,Vídeo
+298,29,Introdução a A vantagem de mudar antes de tudo,16,24,Vídeo
+299,29,Introdução a O direito de concretizar seus projetos com toda a tranquilidade,17,7,Texto
+300,29,Introdução a A possibilidade de mudar de maneira eficaz,18,30,Vídeo
+301,30,Como Funciona A arte de realizar seus sonhos simplesmente,1,12,Texto
+302,30,Implementando O conforto de atingir seus objetivos com confiança,2,10,Quiz
+303,30,Como Funciona A arte de realizar seus sonhos com toda a tranquilidade,3,5,Quiz
+304,30,Introdução a O prazer de mudar com confiança,4,39,Vídeo
+305,30,Introdução a O prazer de ganhar mais facilmente,5,44,Vídeo
+306,30,Como Funciona O conforto de inovar em estado puro,6,42,Vídeo
+307,30,Introdução a A arte de conseguir com toda a tranquilidade,7,17,Texto
+308,30,Introdução a A arte de mudar com toda a tranquilidade,8,32,Vídeo
+309,30,Introdução a A simplicidade de evoluir sem preocupação,9,16,Texto
+310,30,Como Funciona A simplicidade de inovar com confiança,10,17,Vídeo
+311,30,Como Funciona A simplicidade de ganhar direto da fonte,11,25,Vídeo
+312,30,Introdução a A simplicidade de atingir seus objetivos simplesmente,12,26,Vídeo
+313,31,Implementando A possibilidade de inovar naturalmente,1,13,Texto
+314,31,Como Funciona O conforto de inovar simplesmente,2,19,Texto
+315,31,Introdução a O conforto de evoluir em estado puro,3,20,Texto
+316,31,Introdução a A simplicidade de avançar sem preocupação,4,29,Vídeo
+317,31,Como Funciona A possibilidade de avançar antes de tudo,5,18,Texto
+318,31,Implementando A possibilidade de realizar seus sonhos naturalmente,6,19,Vídeo
+319,31,Como Funciona O direito de ganhar com toda a tranquilidade,7,21,Vídeo
+320,31,Introdução a A simplicidade de evoluir mais rapidamente,8,14,Texto
+321,31,Como Funciona O direito de conseguir com confiança,9,13,Quiz
+322,31,Introdução a A simplicidade de concretizar seus projetos mais facilmente,10,8,Texto
+323,31,Implementando A segurança de avançar em estado puro,11,28,Vídeo
+324,31,Como Funciona O poder de evoluir de maneira eficaz,12,10,Vídeo
+325,32,Introdução a A segurança de conseguir direto da fonte,1,12,Quiz
+326,32,Introdução a O conforto de conseguir mais facilmente,2,33,Vídeo
+327,32,Implementando O conforto de concretizar seus projetos simplesmente,3,24,Vídeo
+328,32,Implementando A liberdade de atingir seus objetivos naturalmente,4,26,Vídeo
+329,32,Introdução a A possibilidade de evoluir em estado puro,5,20,Texto
+330,32,Implementando A certeza de mudar com toda a tranquilidade,6,15,Texto
+331,32,Como Funciona O prazer de concretizar seus projetos direto da fonte,7,9,Texto
+332,32,Como Funciona A segurança de conseguir em estado puro,8,33,Vídeo
+333,32,Introdução a O prazer de concretizar seus projetos mais facilmente,9,15,Texto
+334,32,Como Funciona A arte de evoluir mais rapidamente,10,32,Vídeo
+335,32,Introdução a O direito de inovar em estado puro,11,43,Vídeo
+336,32,Introdução a O poder de concretizar seus projetos antes de tudo,12,17,Vídeo
+337,33,Implementando O poder de concretizar seus projetos sem preocupação,1,10,Vídeo
+338,33,Implementando A certeza de concretizar seus projetos de maneira eficaz,2,40,Vídeo
+339,33,Como Funciona A vantagem de atingir seus objetivos simplesmente,3,20,Texto
+340,33,Implementando O poder de realizar seus sonhos com toda a tranquilidade,4,6,Quiz
+341,33,Como Funciona O conforto de conseguir mais facilmente,5,39,Vídeo
+342,33,Implementando A possibilidade de realizar seus sonhos em estado puro,6,44,Vídeo
+343,33,Introdução a A simplicidade de ganhar naturalmente,7,18,Vídeo
+344,33,Como Funciona A segurança de avançar sem preocupação,8,37,Vídeo
+345,33,Introdução a A arte de atingir seus objetivos naturalmente,9,33,Vídeo
+346,33,Implementando A liberdade de ganhar mais facilmente,10,16,Texto
+347,33,Introdução a A possibilidade de evoluir simplesmente,11,18,Vídeo
+348,33,Introdução a O poder de concretizar seus projetos mais rapidamente,12,14,Quiz
+349,33,Introdução a A arte de conseguir simplesmente,13,20,Vídeo
+350,33,Como Funciona A vantagem de inovar sem preocupação,14,35,Vídeo
+351,34,Introdução a A vantagem de evoluir em estado puro,1,18,Vídeo
+352,34,Introdução a O prazer de concretizar seus projetos com força total,2,32,Vídeo
+353,34,Implementando A possibilidade de mudar mais rapidamente,3,9,Vídeo
+354,34,Implementando O prazer de avançar mais facilmente,4,15,Vídeo
+355,34,Como Funciona A arte de mudar com força total,5,23,Vídeo
+356,34,Introdução a O prazer de ganhar direto da fonte,6,33,Vídeo
+357,34,Introdução a A segurança de mudar direto da fonte,7,10,Quiz
+358,34,Como Funciona A liberdade de evoluir mais rapidamente,8,6,Texto
+359,34,Implementando A arte de conseguir com força total,9,28,Vídeo
+360,34,Implementando O prazer de conseguir simplesmente,10,33,Vídeo
+361,34,Implementando O poder de avançar antes de tudo,11,33,Vídeo
+362,34,Implementando A liberdade de avançar com força total,12,38,Vídeo
+363,34,Como Funciona O conforto de atingir seus objetivos naturalmente,13,36,Vídeo
+364,34,Como Funciona A possibilidade de realizar seus sonhos com toda a tranquilidade,14,13,Texto
+365,34,Introdução a O prazer de realizar seus sonhos simplesmente,15,10,Vídeo
+366,34,Implementando A vantagem de conseguir com toda a tranquilidade,16,18,Texto
+367,35,Introdução a O prazer de concretizar seus projetos com força total,1,31,Vídeo
+368,35,Introdução a A segurança de atingir seus objetivos em estado puro,2,12,Texto
+369,35,Como Funciona A liberdade de realizar seus sonhos com força total,3,34,Vídeo
+370,35,Introdução a A possibilidade de mudar com toda a tranquilidade,4,20,Texto
+371,35,Como Funciona O poder de avançar sem preocupação,5,29,Vídeo
+372,35,Como Funciona A simplicidade de inovar antes de tudo,6,26,Vídeo
+373,35,Implementando A certeza de conseguir com confiança,7,15,Quiz
+374,35,Implementando O conforto de concretizar seus projetos sem preocupação,8,7,Texto
+375,35,Como Funciona A vantagem de realizar seus sonhos com toda a tranquilidade,9,37,Vídeo
+376,35,Como Funciona A vantagem de conseguir direto da fonte,10,14,Vídeo
+377,35,Implementando A liberdade de mudar sem preocupação,11,33,Vídeo
+378,35,Introdução a A possibilidade de inovar mais rapidamente,12,25,Vídeo
+379,35,Implementando A arte de mudar mais rapidamente,13,42,Vídeo
+380,35,Implementando O poder de mudar simplesmente,14,12,Texto
+381,35,Como Funciona A certeza de conseguir de maneira eficaz,15,10,Quiz
+382,35,Como Funciona O direito de conseguir com força total,16,18,Vídeo
+383,36,Introdução a O prazer de atingir seus objetivos naturalmente,1,29,Vídeo
+384,36,Introdução a O prazer de realizar seus sonhos mais facilmente,2,37,Vídeo
+385,36,Implementando A liberdade de evoluir simplesmente,3,13,Vídeo
+386,36,Introdução a A arte de conseguir de maneira eficaz,4,14,Vídeo
+387,36,Introdução a A simplicidade de atingir seus objetivos com força total,5,11,Quiz
+388,36,Como Funciona O prazer de avançar direto da fonte,6,10,Texto
+389,36,Como Funciona O conforto de concretizar seus projetos de maneira eficaz,7,14,Quiz
+390,36,Como Funciona A arte de realizar seus sonhos mais facilmente,8,17,Texto
+391,36,Introdução a A simplicidade de atingir seus objetivos mais facilmente,9,13,Texto
+392,36,Introdução a A vantagem de evoluir mais rapidamente,10,16,Texto
+393,36,Introdução a A segurança de concretizar seus projetos com confiança,11,17,Vídeo
+394,36,Implementando O prazer de realizar seus sonhos com toda a tranquilidade,12,14,Quiz
+395,36,Introdução a O conforto de mudar em estado puro,13,8,Vídeo
+396,36,Introdução a O prazer de ganhar mais rapidamente,14,17,Vídeo
+397,36,Introdução a A vantagem de conseguir de maneira eficaz,15,8,Quiz
+398,36,Introdução a O conforto de evoluir com confiança,16,9,Quiz
+399,36,Como Funciona A simplicidade de evoluir mais facilmente,17,26,Vídeo
+400,36,Introdução a A vantagem de evoluir direto da fonte,18,12,Texto
+401,37,Como Funciona A certeza de realizar seus sonhos naturalmente,1,27,Vídeo
+402,37,Implementando A arte de evoluir sem preocupação,2,5,Quiz
+403,37,Implementando O direito de evoluir com toda a tranquilidade,3,12,Quiz
+404,37,Implementando A simplicidade de mudar com toda a tranquilidade,4,12,Texto
+405,37,Implementando O prazer de avançar antes de tudo,5,26,Vídeo
+406,37,Introdução a O poder de realizar seus sonhos mais rapidamente,6,15,Vídeo
+407,37,Implementando A possibilidade de realizar seus sonhos direto da fonte,7,30,Vídeo
+408,37,Introdução a A vantagem de mudar mais rapidamente,8,16,Texto
+409,38,Introdução a O poder de conseguir de maneira eficaz,1,16,Texto
+410,38,Implementando A possibilidade de conseguir naturalmente,2,20,Vídeo
+411,38,Como Funciona A segurança de atingir seus objetivos com toda a tranquilidade,3,32,Vídeo
+412,38,Introdução a A simplicidade de conseguir direto da fonte,4,11,Vídeo
+413,38,Como Funciona A vantagem de inovar mais facilmente,5,32,Vídeo
+414,38,Implementando A liberdade de conseguir sem preocupação,6,14,Quiz
+415,38,Implementando O prazer de evoluir mais rapidamente,7,38,Vídeo
+416,38,Como Funciona A segurança de inovar com toda a tranquilidade,8,9,Texto
+417,39,Implementando A certeza de avançar sem preocupação,1,7,Texto
+418,39,Introdução a O direito de atingir seus objetivos naturalmente,2,22,Vídeo
+419,39,Introdução a A liberdade de evoluir em estado puro,3,10,Texto
+420,39,Como Funciona O conforto de atingir seus objetivos em estado puro,4,14,Texto
+421,39,Implementando O poder de atingir seus objetivos de maneira eficaz,5,14,Quiz
+422,39,Introdução a O prazer de mudar sem preocupação,6,21,Vídeo
+423,39,Implementando O conforto de conseguir com toda a tranquilidade,7,9,Vídeo
+424,39,Implementando A possibilidade de atingir seus objetivos com confiança,8,6,Quiz
+425,40,Introdução a A certeza de inovar com toda a tranquilidade,1,39,Vídeo
+426,40,Implementando O conforto de conseguir com confiança,2,15,Vídeo
+427,40,Implementando O direito de inovar antes de tudo,3,20,Texto
+428,40,Introdução a A arte de mudar mais rapidamente,4,32,Vídeo
+429,40,Implementando O conforto de inovar de maneira eficaz,5,36,Vídeo
+430,40,Introdução a A liberdade de realizar seus sonhos direto da fonte,6,44,Vídeo
+431,40,Implementando A segurança de realizar seus sonhos com toda a tranquilidade,7,6,Quiz
+432,40,Como Funciona A segurança de avançar direto da fonte,8,12,Vídeo
+433,41,Como Funciona O conforto de conseguir mais facilmente,1,21,Vídeo
+434,41,Como Funciona A liberdade de ganhar direto da fonte,2,11,Vídeo
+435,41,Como Funciona A liberdade de atingir seus objetivos antes de tudo,3,36,Vídeo
+436,41,Como Funciona O poder de realizar seus sonhos mais rapidamente,4,40,Vídeo
+437,41,Implementando A liberdade de mudar simplesmente,5,44,Vídeo
+438,41,Implementando A liberdade de concretizar seus projetos sem preocupação,6,16,Vídeo
+439,41,Implementando A certeza de concretizar seus projetos mais facilmente,7,8,Vídeo
+440,41,Introdução a A liberdade de concretizar seus projetos com força total,8,30,Vídeo
+441,42,Implementando O conforto de atingir seus objetivos em estado puro,1,36,Vídeo
+442,42,Como Funciona A simplicidade de evoluir antes de tudo,2,15,Texto
+443,42,Como Funciona O direito de ganhar com toda a tranquilidade,3,11,Quiz
+444,42,Como Funciona A certeza de conseguir de maneira eficaz,4,18,Texto
+445,42,Como Funciona A arte de inovar de maneira eficaz,5,32,Vídeo
+446,42,Como Funciona O conforto de ganhar mais facilmente,6,7,Texto
+447,42,Implementando O direito de avançar mais rapidamente,7,20,Vídeo
+448,42,Como Funciona A certeza de evoluir simplesmente,8,6,Quiz
+449,42,Como Funciona O prazer de inovar simplesmente,9,19,Vídeo
+450,42,Como Funciona O poder de conseguir em estado puro,10,15,Texto
+451,43,Introdução a A vantagem de conseguir com força total,1,11,Texto
+452,43,Implementando A arte de evoluir simplesmente,2,11,Vídeo
+453,43,Implementando A certeza de concretizar seus projetos de maneira eficaz,3,15,Texto
+454,43,Introdução a A segurança de mudar mais facilmente,4,13,Vídeo
+455,43,Introdução a O prazer de avançar com confiança,5,27,Vídeo
+456,43,Como Funciona O prazer de avançar mais rapidamente,6,10,Quiz
+457,43,Implementando A vantagem de evoluir com confiança,7,14,Quiz
+458,43,Implementando A possibilidade de evoluir com confiança,8,13,Texto
+459,43,Como Funciona O direito de atingir seus objetivos com força total,9,17,Texto
+460,43,Implementando A arte de ganhar sem preocupação,10,12,Texto
+461,43,Implementando A segurança de conseguir simplesmente,11,18,Texto
+462,43,Como Funciona O direito de ganhar direto da fonte,12,28,Vídeo
+463,44,Implementando A liberdade de realizar seus sonhos de maneira eficaz,1,20,Vídeo
+464,44,Como Funciona A liberdade de mudar sem preocupação,2,17,Texto
+465,44,Como Funciona A segurança de evoluir simplesmente,3,45,Vídeo
+466,44,Introdução a A simplicidade de mudar com força total,4,16,Texto
+467,44,Introdução a O direito de avançar sem preocupação,5,31,Vídeo
+468,44,Introdução a O poder de ganhar sem preocupação,6,36,Vídeo
+469,44,Implementando O direito de conseguir antes de tudo,7,45,Vídeo
+470,44,Implementando A simplicidade de ganhar mais rapidamente,8,17,Texto
+471,44,Como Funciona A arte de realizar seus sonhos direto da fonte,9,30,Vídeo
+472,44,Como Funciona A vantagem de concretizar seus projetos direto da fonte,10,8,Texto
+473,44,Introdução a O direito de concretizar seus projetos simplesmente,11,12,Texto
+474,44,Como Funciona A liberdade de inovar mais rapidamente,12,19,Vídeo
+475,45,Como Funciona O poder de evoluir simplesmente,1,13,Texto
+476,45,Como Funciona A arte de conseguir mais facilmente,2,9,Quiz
+477,45,Como Funciona A simplicidade de concretizar seus projetos sem preocupação,3,12,Vídeo
+478,45,Implementando A certeza de evoluir mais rapidamente,4,14,Texto
+479,45,Como Funciona A certeza de atingir seus objetivos naturalmente,5,9,Texto
+480,45,Como Funciona O direito de mudar sem preocupação,6,5,Texto
+481,45,Introdução a O direito de avançar naturalmente,7,25,Vídeo
+482,45,Introdução a A simplicidade de atingir seus objetivos naturalmente,8,14,Texto
+483,45,Implementando O prazer de mudar em estado puro,9,12,Texto
+484,45,Como Funciona A liberdade de atingir seus objetivos direto da fonte,10,36,Vídeo
+485,45,Introdução a A segurança de evoluir em estado puro,11,20,Texto
+486,45,Implementando A vantagem de conseguir sem preocupação,12,14,Texto
+487,46,Como Funciona A certeza de mudar sem preocupação,1,14,Quiz
+488,46,Como Funciona A vantagem de conseguir com confiança,2,13,Vídeo
+489,46,Introdução a O conforto de atingir seus objetivos mais facilmente,3,7,Texto
+490,46,Como Funciona O poder de conseguir mais facilmente,4,26,Vídeo
+491,46,Implementando A arte de atingir seus objetivos em estado puro,5,38,Vídeo
+492,46,Introdução a A vantagem de evoluir antes de tudo,6,27,Vídeo
+493,46,Implementando A simplicidade de mudar em estado puro,7,8,Texto
+494,46,Como Funciona A liberdade de conseguir com toda a tranquilidade,8,36,Vídeo
+495,46,Implementando O poder de inovar sem preocupação,9,44,Vídeo
+496,46,Introdução a A possibilidade de avançar mais rapidamente,10,36,Vídeo
+497,46,Introdução a A possibilidade de realizar seus sonhos direto da fonte,11,42,Vídeo
+498,46,Introdução a O poder de mudar mais rapidamente,12,12,Quiz
+499,46,Implementando A arte de ganhar em estado puro,13,7,Texto
+500,46,Como Funciona A possibilidade de inovar simplesmente,14,10,Vídeo
+501,47,Implementando A liberdade de evoluir em estado puro,1,7,Texto
+502,47,Como Funciona A liberdade de avançar direto da fonte,2,6,Quiz
+503,47,Implementando A segurança de inovar sem preocupação,3,11,Quiz
+504,47,Introdução a A arte de ganhar com força total,4,17,Texto
+505,47,Como Funciona O conforto de concretizar seus projetos com toda a tranquilidade,5,6,Quiz
+506,47,Como Funciona O poder de concretizar seus projetos sem preocupação,6,18,Vídeo
+507,47,Como Funciona A possibilidade de atingir seus objetivos simplesmente,7,18,Texto
+508,47,Implementando A possibilidade de realizar seus sonhos de maneira eficaz,8,15,Quiz
+509,47,Introdução a A certeza de concretizar seus projetos com toda a tranquilidade,9,36,Vídeo
+510,47,Implementando O poder de avançar com força total,10,43,Vídeo
+511,47,Como Funciona O poder de ganhar com confiança,11,19,Texto
+512,47,Introdução a A liberdade de ganhar simplesmente,12,8,Vídeo
+513,47,Introdução a A simplicidade de avançar antes de tudo,13,8,Vídeo
+514,47,Introdução a O poder de evoluir mais rapidamente,14,14,Texto
+515,47,Implementando A arte de conseguir simplesmente,15,19,Texto
+516,47,Implementando A arte de concretizar seus projetos mais facilmente,16,7,Texto
+517,48,Como Funciona A certeza de atingir seus objetivos com confiança,1,14,Quiz
+518,48,Introdução a O conforto de avançar com força total,2,35,Vídeo
+519,48,Implementando A arte de concretizar seus projetos mais facilmente,3,9,Vídeo
+520,48,Introdução a A simplicidade de inovar em estado puro,4,24,Vídeo
+521,48,Como Funciona A segurança de ganhar em estado puro,5,14,Texto
+522,48,Introdução a A liberdade de mudar sem preocupação,6,19,Vídeo
+523,48,Como Funciona A vantagem de realizar seus sonhos simplesmente,7,12,Quiz
+524,48,Introdução a A segurança de atingir seus objetivos com confiança,8,34,Vídeo
+525,48,Introdução a O poder de concretizar seus projetos de maneira eficaz,9,12,Vídeo
+526,48,Introdução a O direito de evoluir direto da fonte,10,12,Texto
+527,48,Implementando A certeza de conseguir com força total,11,9,Vídeo
+528,48,Como Funciona A segurança de conseguir sem preocupação,12,14,Quiz
+529,48,Implementando O poder de ganhar com confiança,13,42,Vídeo
+530,48,Implementando A segurança de avançar mais facilmente,14,10,Quiz
+531,48,Como Funciona A simplicidade de ganhar antes de tudo,15,17,Texto
+532,48,Implementando A simplicidade de conseguir com confiança,16,21,Vídeo
+533,49,Introdução a O conforto de inovar simplesmente,1,19,Texto
+534,49,Como Funciona O direito de atingir seus objetivos com toda a tranquilidade,2,32,Vídeo
+535,49,Implementando A possibilidade de evoluir mais rapidamente,3,5,Texto
+536,49,Implementando A simplicidade de inovar direto da fonte,4,6,Texto
+537,49,Introdução a A liberdade de ganhar mais facilmente,5,45,Vídeo
+538,49,Implementando A segurança de concretizar seus projetos com confiança,6,9,Texto
+539,49,Implementando A segurança de conseguir naturalmente,7,19,Vídeo
+540,49,Introdução a A liberdade de concretizar seus projetos sem preocupação,8,41,Vídeo
+541,49,Introdução a O poder de conseguir mais rapidamente,9,17,Vídeo
+542,49,Como Funciona A arte de evoluir antes de tudo,10,44,Vídeo
+543,49,Implementando O prazer de avançar naturalmente,11,25,Vídeo
+544,49,Implementando A possibilidade de mudar com toda a tranquilidade,12,12,Texto
+545,49,Como Funciona A arte de conseguir naturalmente,13,19,Texto
+546,49,Implementando O poder de inovar naturalmente,14,24,Vídeo
+547,49,Implementando A liberdade de realizar seus sonhos com força total,15,5,Quiz
+548,49,Como Funciona A liberdade de mudar antes de tudo,16,9,Vídeo
+549,49,Introdução a A liberdade de inovar direto da fonte,17,20,Vídeo
+550,49,Implementando A segurança de inovar sem preocupação,18,13,Quiz
+551,50,Introdução a A liberdade de atingir seus objetivos mais rapidamente,1,21,Vídeo
+552,50,Introdução a A certeza de avançar sem preocupação,2,18,Texto
+553,50,Introdução a A arte de mudar simplesmente,3,16,Texto
+554,50,Introdução a O direito de evoluir mais rapidamente,4,10,Quiz
+555,50,Introdução a A certeza de atingir seus objetivos com confiança,5,15,Quiz
+556,50,Implementando A vantagem de avançar com confiança,6,6,Quiz
+557,50,Implementando A arte de mudar mais facilmente,7,11,Vídeo
+558,50,Introdução a A vantagem de atingir seus objetivos mais rapidamente,8,12,Texto
+559,50,Introdução a A liberdade de ganhar simplesmente,9,7,Quiz
+560,50,Introdução a A simplicidade de conseguir sem preocupação,10,15,Vídeo
+561,50,Implementando O poder de evoluir antes de tudo,11,16,Texto
+562,50,Implementando A segurança de avançar naturalmente,12,12,Vídeo
+563,50,Implementando O conforto de conseguir sem preocupação,13,30,Vídeo
+564,50,Implementando A possibilidade de concretizar seus projetos sem preocupação,14,40,Vídeo
+565,50,Introdução a O poder de mudar antes de tudo,15,31,Vídeo
+566,50,Introdução a O direito de realizar seus sonhos direto da fonte,16,26,Vídeo
+567,51,Implementando A possibilidade de mudar naturalmente,1,15,Quiz
+568,51,Introdução a A arte de inovar com força total,2,33,Vídeo
+569,51,Introdução a A simplicidade de concretizar seus projetos com toda a tranquilidade,3,11,Vídeo
+570,51,Como Funciona A vantagem de realizar seus sonhos antes de tudo,4,42,Vídeo
+571,51,Implementando A simplicidade de mudar simplesmente,5,6,Texto
+572,51,Como Funciona O direito de avançar em estado puro,6,41,Vídeo
+573,51,Como Funciona O direito de mudar em estado puro,7,14,Quiz
+574,51,Introdução a A vantagem de mudar direto da fonte,8,38,Vídeo
+575,51,Implementando A segurança de mudar mais rapidamente,9,21,Vídeo
+576,51,Como Funciona A possibilidade de concretizar seus projetos naturalmente,10,22,Vídeo
+577,51,Implementando O prazer de realizar seus sonhos com toda a tranquilidade,11,9,Quiz
+578,51,Introdução a O direito de atingir seus objetivos naturalmente,12,17,Texto
+579,51,Introdução a A simplicidade de concretizar seus projetos mais rapidamente,13,15,Vídeo
+580,51,Como Funciona A possibilidade de avançar mais rapidamente,14,8,Vídeo
+581,51,Implementando A certeza de ganhar sem preocupação,15,9,Vídeo
+582,51,Introdução a A liberdade de avançar de maneira eficaz,16,44,Vídeo
+583,52,Implementando O poder de evoluir em estado puro,1,15,Texto
+584,52,Introdução a A segurança de ganhar sem preocupação,2,31,Vídeo
+585,52,Implementando O direito de atingir seus objetivos mais rapidamente,3,17,Vídeo
+586,52,Como Funciona A segurança de atingir seus objetivos com confiança,4,9,Quiz
+587,52,Como Funciona O poder de evoluir sem preocupação,5,11,Vídeo
+588,52,Introdução a A liberdade de atingir seus objetivos sem preocupação,6,31,Vídeo
+589,52,Introdução a O conforto de ganhar direto da fonte,7,36,Vídeo
+590,52,Implementando O conforto de concretizar seus projetos de maneira eficaz,8,9,Vídeo
+591,52,Introdução a A arte de inovar com força total,9,17,Vídeo
+592,52,Implementando A certeza de avançar mais facilmente,10,13,Texto
+593,52,Como Funciona A segurança de atingir seus objetivos com confiança,11,22,Vídeo
+594,52,Introdução a A segurança de ganhar simplesmente,12,11,Texto
+595,52,Como Funciona O prazer de ganhar antes de tudo,13,43,Vídeo
+596,52,Como Funciona A certeza de mudar mais rapidamente,14,20,Texto
+597,52,Introdução a O poder de conseguir com toda a tranquilidade,15,10,Vídeo
+598,52,Como Funciona O direito de inovar mais rapidamente,16,37,Vídeo
+599,52,Como Funciona A segurança de ganhar com toda a tranquilidade,17,10,Vídeo
+600,52,Como Funciona A segurança de atingir seus objetivos mais rapidamente,18,41,Vídeo
+601,53,Implementando A segurança de avançar naturalmente,1,34,Vídeo
+602,53,Como Funciona A certeza de realizar seus sonhos com confiança,2,24,Vídeo
+603,53,Introdução a A arte de atingir seus objetivos em estado puro,3,18,Texto
+604,53,Como Funciona A segurança de realizar seus sonhos com confiança,4,18,Vídeo
+605,53,Implementando A simplicidade de realizar seus sonhos mais facilmente,5,20,Texto
+606,53,Como Funciona O direito de avançar com confiança,6,7,Quiz
+607,53,Como Funciona A possibilidade de realizar seus sonhos com toda a tranquilidade,7,11,Quiz
+608,53,Introdução a O conforto de avançar com confiança,8,11,Vídeo
+609,53,Implementando A vantagem de conseguir mais rapidamente,9,6,Texto
+610,53,Implementando A segurança de conseguir com toda a tranquilidade,10,8,Texto
+611,53,Como Funciona O prazer de evoluir sem preocupação,11,40,Vídeo
+612,53,Implementando O poder de realizar seus sonhos com toda a tranquilidade,12,35,Vídeo
+613,54,Como Funciona O direito de ganhar com toda a tranquilidade,1,39,Vídeo
+614,54,Implementando A vantagem de concretizar seus projetos com toda a tranquilidade,2,8,Vídeo
+615,54,Introdução a A certeza de evoluir com força total,3,9,Vídeo
+616,54,Introdução a A vantagem de avançar com confiança,4,43,Vídeo
+617,54,Introdução a O poder de evoluir em estado puro,5,22,Vídeo
+618,54,Implementando A certeza de conseguir sem preocupação,6,27,Vídeo
+619,54,Implementando A possibilidade de concretizar seus projetos antes de tudo,7,18,Vídeo
+620,54,Implementando A segurança de evoluir com força total,8,19,Vídeo
+621,54,Introdução a A arte de atingir seus objetivos de maneira eficaz,9,9,Quiz
+622,54,Como Funciona A liberdade de evoluir com confiança,10,9,Quiz
+623,54,Introdução a A possibilidade de inovar em estado puro,11,12,Quiz
+624,54,Introdução a O direito de conseguir com força total,12,8,Vídeo
+625,55,Como Funciona A vantagem de ganhar em estado puro,1,32,Vídeo
+626,55,Introdução a A liberdade de concretizar seus projetos direto da fonte,2,23,Vídeo
+627,55,Como Funciona O poder de realizar seus sonhos de maneira eficaz,3,38,Vídeo
+628,55,Implementando A certeza de avançar em estado puro,4,41,Vídeo
+629,55,Implementando O poder de conseguir mais facilmente,5,25,Vídeo
+630,55,Introdução a A simplicidade de inovar com confiança,6,45,Vídeo
+631,55,Como Funciona O prazer de ganhar em estado puro,7,16,Texto
+632,55,Como Funciona A possibilidade de concretizar seus projetos com confiança,8,8,Quiz
+633,55,Como Funciona O poder de atingir seus objetivos com força total,9,14,Vídeo
+634,55,Implementando O direito de concretizar seus projetos mais rapidamente,10,44,Vídeo
+635,55,Introdução a O direito de avançar antes de tudo,11,6,Texto
+636,55,Como Funciona O poder de avançar antes de tudo,12,5,Quiz
+637,56,Implementando A simplicidade de inovar mais facilmente,1,44,Vídeo
+638,56,Introdução a O direito de atingir seus objetivos com toda a tranquilidade,2,37,Vídeo
+639,56,Implementando A vantagem de evoluir mais rapidamente,3,14,Texto
+640,56,Introdução a O direito de realizar seus sonhos antes de tudo,4,15,Texto
+641,56,Implementando A possibilidade de ganhar direto da fonte,5,37,Vídeo
+642,56,Introdução a O conforto de ganhar naturalmente,6,33,Vídeo
+643,56,Implementando A simplicidade de avançar com confiança,7,14,Quiz
+644,56,Como Funciona O poder de concretizar seus projetos antes de tudo,8,19,Vídeo
+645,56,Implementando A certeza de realizar seus sonhos mais facilmente,9,6,Texto
+646,56,Como Funciona O prazer de inovar com confiança,10,12,Texto
+647,56,Como Funciona O conforto de mudar com toda a tranquilidade,11,34,Vídeo
+648,56,Como Funciona O prazer de evoluir mais facilmente,12,17,Texto
+649,56,Introdução a O prazer de realizar seus sonhos com confiança,13,27,Vídeo
+650,56,Introdução a A possibilidade de atingir seus objetivos mais facilmente,14,44,Vídeo
+651,57,Implementando A liberdade de avançar mais rapidamente,1,19,Vídeo
+652,57,Introdução a A arte de conseguir simplesmente,2,10,Quiz
+653,57,Introdução a A liberdade de ganhar mais facilmente,3,8,Texto
+654,57,Implementando A segurança de avançar em estado puro,4,13,Quiz
+655,57,Como Funciona O poder de realizar seus sonhos naturalmente,5,25,Vídeo
+656,57,Introdução a A vantagem de conseguir em estado puro,6,8,Texto
+657,57,Implementando O conforto de ganhar naturalmente,7,16,Texto
+658,57,Introdução a A liberdade de conseguir em estado puro,8,36,Vídeo
+659,57,Implementando O poder de avançar simplesmente,9,6,Texto
+660,57,Como Funciona O poder de atingir seus objetivos com toda a tranquilidade,10,43,Vídeo
+661,57,Introdução a O conforto de realizar seus sonhos em estado puro,11,14,Texto
+662,57,Implementando A arte de conseguir com confiança,12,18,Vídeo
+663,57,Como Funciona A possibilidade de ganhar com confiança,13,32,Vídeo
+664,57,Implementando O poder de realizar seus sonhos com toda a tranquilidade,14,37,Vídeo
+665,57,Implementando A certeza de inovar sem preocupação,15,6,Texto
+666,57,Implementando O conforto de atingir seus objetivos de maneira eficaz,16,33,Vídeo
+667,58,Implementando O direito de evoluir em estado puro,1,42,Vídeo
+668,58,Implementando A segurança de avançar de maneira eficaz,2,34,Vídeo
+669,58,Implementando O poder de avançar mais facilmente,3,24,Vídeo
+670,58,Como Funciona A certeza de mudar antes de tudo,4,45,Vídeo
+671,58,Implementando O conforto de ganhar mais facilmente,5,9,Quiz
+672,58,Como Funciona A simplicidade de atingir seus objetivos direto da fonte,6,17,Texto
+673,58,Como Funciona O conforto de mudar com confiança,7,45,Vídeo
+674,58,Como Funciona A arte de evoluir simplesmente,8,37,Vídeo
+675,58,Implementando A segurança de conseguir antes de tudo,9,39,Vídeo
+676,58,Como Funciona A arte de ganhar mais rapidamente,10,8,Texto
+677,58,Implementando A certeza de avançar direto da fonte,11,32,Vídeo
+678,58,Implementando A liberdade de conseguir com confiança,12,42,Vídeo
+679,58,Implementando O prazer de realizar seus sonhos direto da fonte,13,6,Quiz
+680,58,Introdução a A simplicidade de mudar naturalmente,14,6,Quiz
+681,58,Como Funciona A arte de realizar seus sonhos mais facilmente,15,16,Vídeo
+682,58,Introdução a A arte de avançar sem preocupação,16,26,Vídeo
+683,59,Implementando A possibilidade de ganhar em estado puro,1,29,Vídeo
+684,59,Como Funciona O prazer de avançar simplesmente,2,13,Quiz
+685,59,Implementando A certeza de ganhar com toda a tranquilidade,3,28,Vídeo
+686,59,Introdução a O conforto de avançar direto da fonte,4,38,Vídeo
+687,59,Implementando A segurança de avançar direto da fonte,5,37,Vídeo
+688,59,Introdução a A vantagem de mudar de maneira eficaz,6,14,Texto
+689,59,Como Funciona O poder de atingir seus objetivos sem preocupação,7,13,Vídeo
+690,59,Introdução a O conforto de mudar naturalmente,8,32,Vídeo
+691,59,Como Funciona A arte de avançar simplesmente,9,15,Texto
+692,59,Como Funciona O conforto de mudar de maneira eficaz,10,13,Texto
+693,59,Como Funciona O conforto de realizar seus sonhos com força total,11,5,Texto
+694,59,Implementando O poder de ganhar naturalmente,12,14,Texto
+695,59,Como Funciona A simplicidade de conseguir naturalmente,13,12,Quiz
+696,59,Introdução a A liberdade de realizar seus sonhos simplesmente,14,28,Vídeo
+697,59,Introdução a O prazer de realizar seus sonhos de maneira eficaz,15,28,Vídeo
+698,59,Introdução a A segurança de realizar seus sonhos sem preocupação,16,11,Quiz
+699,59,Como Funciona A arte de mudar com toda a tranquilidade,17,13,Quiz
+700,59,Introdução a O conforto de evoluir sem preocupação,18,22,Vídeo
+701,60,Como Funciona A vantagem de conseguir mais rapidamente,1,40,Vídeo
+702,60,Como Funciona A vantagem de avançar com força total,2,36,Vídeo
+703,60,Introdução a A certeza de atingir seus objetivos de maneira eficaz,3,27,Vídeo
+704,60,Implementando A liberdade de conseguir direto da fonte,4,15,Vídeo
+705,60,Implementando A arte de concretizar seus projetos em estado puro,5,12,Texto
+706,60,Como Funciona A liberdade de inovar com toda a tranquilidade,6,6,Texto
+707,60,Implementando A arte de evoluir antes de tudo,7,9,Quiz
+708,60,Como Funciona O conforto de concretizar seus projetos naturalmente,8,14,Quiz
+709,60,Como Funciona A simplicidade de inovar com confiança,9,29,Vídeo
+710,60,Introdução a A certeza de mudar antes de tudo,10,13,Texto
+711,61,Implementando O direito de mudar com força total,1,40,Vídeo
+712,61,Como Funciona O poder de avançar com força total,2,43,Vídeo
+713,61,Como Funciona A simplicidade de realizar seus sonhos mais rapidamente,3,6,Texto
+714,61,Como Funciona O prazer de avançar naturalmente,4,11,Vídeo
+715,61,Introdução a A simplicidade de concretizar seus projetos com força total,5,8,Vídeo
+716,61,Como Funciona A simplicidade de mudar direto da fonte,6,35,Vídeo
+717,61,Implementando O direito de atingir seus objetivos naturalmente,7,9,Quiz
+718,61,Implementando O conforto de evoluir sem preocupação,8,14,Texto
+719,61,Implementando A simplicidade de concretizar seus projetos antes de tudo,9,9,Texto
+720,61,Introdução a A liberdade de concretizar seus projetos com confiança,10,28,Vídeo
+721,62,Implementando A segurança de evoluir com força total,1,18,Texto
+722,62,Introdução a A liberdade de inovar com toda a tranquilidade,2,17,Texto
+723,62,Implementando O conforto de avançar de maneira eficaz,3,12,Texto
+724,62,Introdução a A liberdade de concretizar seus projetos mais facilmente,4,18,Vídeo
+725,62,Implementando O poder de concretizar seus projetos simplesmente,5,17,Texto
+726,62,Introdução a A liberdade de ganhar direto da fonte,6,33,Vídeo
+727,62,Como Funciona A simplicidade de avançar mais rapidamente,7,34,Vídeo
+728,62,Introdução a A simplicidade de realizar seus sonhos mais facilmente,8,17,Texto
+729,62,Introdução a O prazer de avançar simplesmente,9,13,Texto
+730,62,Implementando O direito de avançar em estado puro,10,19,Texto
+731,63,Introdução a O prazer de realizar seus sonhos com toda a tranquilidade,1,10,Vídeo
+732,63,Como Funciona O prazer de conseguir naturalmente,2,24,Vídeo
+733,63,Como Funciona A liberdade de ganhar direto da fonte,3,30,Vídeo
+734,63,Implementando O poder de avançar direto da fonte,4,14,Vídeo
+735,63,Como Funciona O conforto de mudar com confiança,5,43,Vídeo
+736,63,Introdução a O conforto de inovar mais rapidamente,6,15,Texto
+737,63,Introdução a O prazer de inovar com toda a tranquilidade,7,8,Texto
+738,63,Introdução a O poder de conseguir com força total,8,8,Quiz
+739,63,Como Funciona O direito de avançar simplesmente,9,32,Vídeo
+740,63,Como Funciona O direito de ganhar em estado puro,10,16,Texto
+741,64,Introdução a A liberdade de evoluir mais facilmente,1,30,Vídeo
+742,64,Como Funciona A vantagem de evoluir com toda a tranquilidade,2,13,Texto
+743,64,Como Funciona O prazer de evoluir com confiança,3,40,Vídeo
+744,64,Introdução a A liberdade de ganhar com toda a tranquilidade,4,12,Texto
+745,64,Introdução a O poder de evoluir sem preocupação,5,9,Vídeo
+746,64,Implementando O direito de concretizar seus projetos em estado puro,6,11,Quiz
+747,64,Implementando O direito de ganhar simplesmente,7,19,Vídeo
+748,64,Implementando A simplicidade de conseguir mais facilmente,8,37,Vídeo
+749,64,Implementando O prazer de mudar simplesmente,9,16,Vídeo
+750,64,Implementando A arte de conseguir com confiança,10,18,Texto
+751,65,Introdução a A liberdade de realizar seus sonhos direto da fonte,1,16,Texto
+752,65,Implementando O conforto de concretizar seus projetos em estado puro,2,14,Quiz
+753,65,Introdução a A segurança de mudar de maneira eficaz,3,12,Texto
+754,65,Como Funciona O conforto de evoluir sem preocupação,4,19,Vídeo
+755,65,Implementando O poder de atingir seus objetivos sem preocupação,5,25,Vídeo
+756,65,Como Funciona A liberdade de conseguir com confiança,6,14,Texto
+757,65,Como Funciona A arte de concretizar seus projetos em estado puro,7,38,Vídeo
+758,65,Como Funciona A vantagem de avançar simplesmente,8,40,Vídeo
+759,66,Introdução a A segurança de inovar mais facilmente,1,12,Texto
+760,66,Implementando O conforto de atingir seus objetivos simplesmente,2,39,Vídeo
+761,66,Implementando O direito de realizar seus sonhos com confiança,3,5,Quiz
+762,66,Como Funciona O direito de atingir seus objetivos antes de tudo,4,29,Vídeo
+763,66,Introdução a A possibilidade de mudar naturalmente,5,16,Vídeo
+764,66,Como Funciona A certeza de mudar mais rapidamente,6,8,Vídeo
+765,66,Como Funciona O direito de avançar naturalmente,7,8,Texto
+766,66,Introdução a A certeza de avançar de maneira eficaz,8,13,Quiz
+767,67,Introdução a A simplicidade de conseguir mais rapidamente,1,26,Vídeo
+768,67,Introdução a A liberdade de concretizar seus projetos de maneira eficaz,2,41,Vídeo
+769,67,Implementando O prazer de avançar de maneira eficaz,3,23,Vídeo
+770,67,Introdução a A certeza de concretizar seus projetos naturalmente,4,13,Texto
+771,67,Como Funciona O poder de concretizar seus projetos simplesmente,5,10,Texto
+772,67,Como Funciona A possibilidade de realizar seus sonhos sem preocupação,6,23,Vídeo
+773,67,Introdução a A possibilidade de realizar seus sonhos de maneira eficaz,7,22,Vídeo
+774,67,Como Funciona A simplicidade de concretizar seus projetos direto da fonte,8,13,Vídeo
+775,68,Introdução a A simplicidade de atingir seus objetivos direto da fonte,1,11,Vídeo
+776,68,Introdução a A possibilidade de ganhar simplesmente,2,27,Vídeo
+777,68,Implementando A segurança de avançar de maneira eficaz,3,14,Texto
+778,68,Introdução a A possibilidade de atingir seus objetivos mais facilmente,4,26,Vídeo
+779,68,Introdução a O prazer de mudar com toda a tranquilidade,5,19,Vídeo
+780,68,Como Funciona A simplicidade de atingir seus objetivos sem preocupação,6,18,Vídeo
+781,68,Como Funciona O conforto de realizar seus sonhos em estado puro,7,5,Texto
+782,68,Introdução a A simplicidade de avançar com confiança,8,24,Vídeo
+783,69,Implementando O direito de mudar simplesmente,1,22,Vídeo
+784,69,Introdução a O poder de conseguir antes de tudo,2,15,Texto
+785,69,Como Funciona O prazer de conseguir com confiança,3,35,Vídeo
+786,69,Introdução a A liberdade de atingir seus objetivos em estado puro,4,25,Vídeo
+787,69,Introdução a A liberdade de atingir seus objetivos com força total,5,5,Texto
+788,69,Implementando A simplicidade de avançar mais rapidamente,6,14,Quiz
+789,69,Introdução a O poder de concretizar seus projetos com força total,7,16,Vídeo
+790,69,Implementando O poder de mudar em estado puro,8,12,Texto
+791,70,Implementando A arte de avançar de maneira eficaz,1,14,Texto
+792,70,Implementando A possibilidade de conseguir mais facilmente,2,16,Texto
+793,70,Introdução a A segurança de atingir seus objetivos mais facilmente,3,25,Vídeo
+794,70,Como Funciona O prazer de atingir seus objetivos mais rapidamente,4,10,Texto
+795,70,Como Funciona A simplicidade de evoluir de maneira eficaz,5,12,Vídeo
+796,70,Como Funciona O direito de realizar seus sonhos com força total,6,14,Quiz
+797,70,Implementando O poder de conseguir em estado puro,7,37,Vídeo
+798,70,Como Funciona A possibilidade de avançar mais facilmente,8,33,Vídeo
+799,70,Implementando O direito de mudar com força total,9,8,Quiz
+800,70,Implementando A segurança de evoluir mais facilmente,10,8,Vídeo
+801,71,Introdução a O prazer de avançar de maneira eficaz,1,43,Vídeo
+802,71,Introdução a A certeza de conseguir de maneira eficaz,2,6,Texto
+803,71,Como Funciona A possibilidade de ganhar com confiança,3,38,Vídeo
+804,71,Como Funciona A simplicidade de mudar de maneira eficaz,4,20,Texto
+805,71,Como Funciona A segurança de evoluir em estado puro,5,6,Quiz
+806,71,Introdução a O poder de conseguir sem preocupação,6,29,Vídeo
+807,71,Implementando O direito de conseguir com confiança,7,9,Quiz
+808,71,Implementando A vantagem de conseguir de maneira eficaz,8,24,Vídeo
+809,71,Implementando A segurança de mudar em estado puro,9,12,Vídeo
+810,71,Implementando O direito de concretizar seus projetos mais rapidamente,10,9,Texto
+811,71,Implementando A vantagem de inovar sem preocupação,11,17,Texto
+812,71,Como Funciona O prazer de mudar sem preocupação,12,27,Vídeo
+813,72,Introdução a A vantagem de avançar antes de tudo,1,8,Quiz
+814,72,Como Funciona O poder de avançar direto da fonte,2,35,Vídeo
+815,72,Implementando A arte de evoluir mais rapidamente,3,44,Vídeo
+816,72,Introdução a A possibilidade de realizar seus sonhos de maneira eficaz,4,12,Texto
+817,72,Implementando A arte de conseguir com força total,5,14,Vídeo
+818,72,Introdução a A segurança de realizar seus sonhos com confiança,6,7,Quiz
+819,72,Introdução a A certeza de realizar seus sonhos sem preocupação,7,29,Vídeo
+820,72,Implementando A vantagem de inovar com força total,8,16,Texto
+821,72,Implementando A segurança de inovar naturalmente,9,36,Vídeo
+822,72,Implementando A arte de realizar seus sonhos com confiança,10,43,Vídeo
+823,72,Implementando A vantagem de realizar seus sonhos simplesmente,11,31,Vídeo
+824,72,Introdução a A certeza de atingir seus objetivos direto da fonte,12,9,Vídeo
+825,73,Como Funciona O conforto de evoluir mais rapidamente,1,37,Vídeo
+826,73,Como Funciona A simplicidade de inovar com confiança,2,27,Vídeo
+827,73,Introdução a A segurança de mudar em estado puro,3,36,Vídeo
+828,73,Como Funciona A simplicidade de evoluir com confiança,4,17,Vídeo
+829,73,Introdução a O poder de avançar antes de tudo,5,30,Vídeo
+830,73,Implementando O direito de inovar simplesmente,6,14,Quiz
+831,73,Introdução a O direito de avançar com toda a tranquilidade,7,13,Vídeo
+832,73,Como Funciona O direito de concretizar seus projetos em estado puro,8,38,Vídeo
+833,73,Introdução a A possibilidade de conseguir simplesmente,9,38,Vídeo
+834,73,Implementando A possibilidade de mudar com confiança,10,44,Vídeo
+835,73,Implementando O conforto de atingir seus objetivos simplesmente,11,10,Vídeo
+836,73,Como Funciona O prazer de mudar com confiança,12,42,Vídeo
+837,74,Introdução a A simplicidade de avançar naturalmente,1,26,Vídeo
+838,74,Implementando O prazer de evoluir simplesmente,2,6,Texto
+839,74,Introdução a O conforto de conseguir mais facilmente,3,9,Quiz
+840,74,Como Funciona O direito de realizar seus sonhos naturalmente,4,36,Vídeo
+841,74,Introdução a O prazer de concretizar seus projetos mais rapidamente,5,5,Quiz
+842,74,Implementando O direito de ganhar mais facilmente,6,22,Vídeo
+843,74,Implementando O poder de avançar sem preocupação,7,17,Vídeo
+844,74,Introdução a A vantagem de evoluir antes de tudo,8,9,Quiz
+845,74,Como Funciona A vantagem de avançar naturalmente,9,12,Vídeo
+846,74,Introdução a A arte de ganhar com toda a tranquilidade,10,10,Vídeo
+847,74,Introdução a A possibilidade de avançar com força total,11,13,Vídeo
+848,74,Introdução a O poder de mudar de maneira eficaz,12,5,Texto
+849,74,Implementando O conforto de avançar com toda a tranquilidade,13,37,Vídeo
+850,74,Introdução a A possibilidade de atingir seus objetivos direto da fonte,14,23,Vídeo
+851,75,Implementando A segurança de concretizar seus projetos simplesmente,1,37,Vídeo
+852,75,Como Funciona A arte de conseguir com confiança,2,22,Vídeo
+853,75,Como Funciona A vantagem de evoluir simplesmente,3,13,Vídeo
+854,75,Como Funciona A vantagem de ganhar em estado puro,4,26,Vídeo
+855,75,Introdução a O direito de evoluir em estado puro,5,17,Vídeo
+856,75,Como Funciona A certeza de ganhar simplesmente,6,9,Texto
+857,75,Introdução a O poder de inovar sem preocupação,7,42,Vídeo
+858,75,Como Funciona O prazer de mudar com confiança,8,27,Vídeo
+859,75,Como Funciona A arte de atingir seus objetivos naturalmente,9,16,Texto
+860,75,Introdução a A liberdade de mudar com toda a tranquilidade,10,6,Quiz
+861,75,Como Funciona O poder de realizar seus sonhos naturalmente,11,19,Vídeo
+862,75,Implementando A vantagem de atingir seus objetivos com confiança,12,16,Vídeo
+863,75,Implementando A segurança de ganhar de maneira eficaz,13,39,Vídeo
+864,75,Implementando O conforto de evoluir antes de tudo,14,17,Texto
+865,75,Implementando O poder de mudar naturalmente,15,40,Vídeo
+866,75,Como Funciona O poder de mudar mais facilmente,16,19,Texto
+867,76,Introdução a A certeza de avançar mais rapidamente,1,11,Vídeo
+868,76,Introdução a A certeza de mudar de maneira eficaz,2,42,Vídeo
+869,76,Implementando O conforto de mudar com toda a tranquilidade,3,10,Quiz
+870,76,Introdução a O prazer de realizar seus sonhos mais facilmente,4,13,Texto
+871,76,Introdução a O prazer de conseguir com toda a tranquilidade,5,13,Quiz
+872,76,Como Funciona A certeza de evoluir sem preocupação,6,44,Vídeo
+873,76,Implementando O prazer de realizar seus sonhos mais facilmente,7,8,Texto
+874,76,Implementando O direito de avançar em estado puro,8,19,Texto
+875,76,Introdução a A liberdade de avançar naturalmente,9,20,Vídeo
+876,76,Implementando A liberdade de realizar seus sonhos direto da fonte,10,14,Quiz
+877,76,Como Funciona A possibilidade de concretizar seus projetos de maneira eficaz,11,16,Texto
+878,76,Implementando A liberdade de realizar seus sonhos com toda a tranquilidade,12,27,Vídeo
+879,76,Implementando O poder de mudar com confiança,13,43,Vídeo
+880,76,Como Funciona A possibilidade de inovar mais rapidamente,14,42,Vídeo
+881,76,Implementando O conforto de atingir seus objetivos naturalmente,15,13,Quiz
+882,76,Como Funciona A segurança de concretizar seus projetos simplesmente,16,26,Vídeo
+883,77,Implementando A segurança de avançar de maneira eficaz,1,11,Vídeo
+884,77,Introdução a O poder de avançar naturalmente,2,44,Vídeo
+885,77,Como Funciona A certeza de inovar antes de tudo,3,19,Texto
+886,77,Introdução a A liberdade de concretizar seus projetos mais facilmente,4,15,Quiz
+887,77,Como Funciona O conforto de atingir seus objetivos mais rapidamente,5,20,Texto
+888,77,Introdução a A vantagem de atingir seus objetivos direto da fonte,6,7,Texto
+889,77,Implementando A simplicidade de concretizar seus projetos naturalmente,7,38,Vídeo
+890,77,Implementando O direito de mudar sem preocupação,8,43,Vídeo
+891,77,Como Funciona A segurança de realizar seus sonhos de maneira eficaz,9,9,Quiz
+892,77,Implementando O direito de conseguir de maneira eficaz,10,20,Vídeo
+893,77,Implementando A simplicidade de inovar de maneira eficaz,11,6,Quiz
+894,77,Implementando A simplicidade de ganhar em estado puro,12,34,Vídeo
+895,77,Como Funciona A possibilidade de evoluir naturalmente,13,20,Texto
+896,77,Implementando A arte de realizar seus sonhos mais facilmente,14,23,Vídeo
+897,77,Como Funciona O direito de realizar seus sonhos antes de tudo,15,5,Quiz
+898,77,Como Funciona O poder de mudar mais rapidamente,16,40,Vídeo
+899,77,Implementando A liberdade de concretizar seus projetos mais facilmente,17,20,Texto
+900,77,Implementando O direito de evoluir de maneira eficaz,18,31,Vídeo
+901,78,Como Funciona A possibilidade de evoluir naturalmente,1,44,Vídeo
+902,78,Introdução a A liberdade de atingir seus objetivos com força total,2,17,Vídeo
+903,78,Como Funciona O poder de avançar em estado puro,3,35,Vídeo
+904,78,Introdução a A possibilidade de realizar seus sonhos antes de tudo,4,11,Texto
+905,78,Como Funciona O poder de conseguir com confiança,5,24,Vídeo
+906,78,Implementando A possibilidade de concretizar seus projetos naturalmente,6,5,Texto
+907,78,Implementando A certeza de avançar direto da fonte,7,40,Vídeo
+908,78,Implementando A certeza de avançar em estado puro,8,35,Vídeo
+909,78,Introdução a A vantagem de inovar mais facilmente,9,17,Texto
+910,78,Implementando O prazer de avançar com confiança,10,8,Vídeo
+911,78,Introdução a A liberdade de conseguir antes de tudo,11,13,Texto
+912,78,Como Funciona O poder de avançar sem preocupação,12,11,Vídeo
+913,78,Como Funciona A possibilidade de inovar com força total,13,23,Vídeo
+914,78,Como Funciona A arte de evoluir em estado puro,14,5,Texto
+915,78,Implementando O direito de realizar seus sonhos mais rapidamente,15,15,Quiz
+916,78,Como Funciona A liberdade de avançar simplesmente,16,23,Vídeo
+917,79,Implementando A certeza de atingir seus objetivos com força total,1,16,Vídeo
+918,79,Implementando A simplicidade de inovar com toda a tranquilidade,2,6,Quiz
+919,79,Como Funciona A certeza de ganhar em estado puro,3,14,Vídeo
+920,79,Introdução a A liberdade de mudar com força total,4,36,Vídeo
+921,79,Introdução a A liberdade de ganhar de maneira eficaz,5,40,Vídeo
+922,79,Como Funciona O poder de concretizar seus projetos com toda a tranquilidade,6,25,Vídeo
+923,79,Como Funciona A simplicidade de conseguir naturalmente,7,15,Quiz
+924,79,Introdução a A certeza de atingir seus objetivos com força total,8,5,Texto
+925,79,Introdução a A liberdade de concretizar seus projetos naturalmente,9,8,Quiz
+926,79,Como Funciona A possibilidade de inovar antes de tudo,10,17,Vídeo
+927,79,Como Funciona O poder de ganhar com força total,11,34,Vídeo
+928,79,Como Funciona A liberdade de mudar de maneira eficaz,12,27,Vídeo
+929,79,Como Funciona O prazer de mudar direto da fonte,13,13,Texto
+930,79,Como Funciona A possibilidade de conseguir com confiança,14,20,Vídeo
+931,79,Introdução a O poder de evoluir sem preocupação,15,23,Vídeo
+932,79,Implementando O conforto de evoluir com confiança,16,21,Vídeo
+933,80,Introdução a A vantagem de evoluir simplesmente,1,36,Vídeo
+934,80,Como Funciona A vantagem de mudar direto da fonte,2,18,Texto
+935,80,Implementando O direito de atingir seus objetivos mais rapidamente,3,14,Vídeo
+936,80,Implementando O poder de avançar naturalmente,4,39,Vídeo
+937,80,Como Funciona O poder de concretizar seus projetos mais facilmente,5,27,Vídeo
+938,80,Implementando A possibilidade de atingir seus objetivos de maneira eficaz,6,10,Texto
+939,80,Implementando A liberdade de ganhar direto da fonte,7,37,Vídeo
+940,80,Implementando A certeza de conseguir direto da fonte,8,43,Vídeo
+941,80,Implementando A arte de atingir seus objetivos sem preocupação,9,20,Vídeo
+942,80,Como Funciona A simplicidade de atingir seus objetivos com confiança,10,25,Vídeo
+943,80,Introdução a A arte de realizar seus sonhos com confiança,11,33,Vídeo
+944,80,Implementando A arte de avançar direto da fonte,12,41,Vídeo
+945,80,Como Funciona A simplicidade de ganhar simplesmente,13,6,Texto
+946,80,Introdução a O prazer de evoluir mais rapidamente,14,13,Vídeo
+947,80,Implementando O direito de concretizar seus projetos simplesmente,15,19,Texto
+948,80,Como Funciona A liberdade de realizar seus sonhos mais rapidamente,16,14,Quiz
+949,80,Implementando A possibilidade de realizar seus sonhos mais rapidamente,17,10,Quiz
+950,80,Introdução a O conforto de realizar seus sonhos de maneira eficaz,18,38,Vídeo
+951,81,Como Funciona A simplicidade de evoluir com força total,1,16,Vídeo
+952,81,Implementando A possibilidade de ganhar mais rapidamente,2,8,Texto
+953,81,Como Funciona A simplicidade de conseguir antes de tudo,3,7,Texto
+954,81,Implementando A possibilidade de mudar de maneira eficaz,4,28,Vídeo
+955,81,Implementando A certeza de mudar mais facilmente,5,15,Quiz
+956,81,Introdução a A vantagem de mudar direto da fonte,6,30,Vídeo
+957,81,Como Funciona A simplicidade de inovar antes de tudo,7,16,Texto
+958,81,Introdução a O direito de atingir seus objetivos de maneira eficaz,8,17,Texto
+959,81,Implementando O direito de conseguir de maneira eficaz,9,10,Texto
+960,81,Introdução a A vantagem de ganhar com força total,10,15,Vídeo
+961,81,Introdução a O poder de conseguir de maneira eficaz,11,18,Vídeo
+962,81,Como Funciona A certeza de concretizar seus projetos mais facilmente,12,29,Vídeo
+963,82,Como Funciona A arte de concretizar seus projetos com força total,1,9,Quiz
+964,82,Como Funciona O prazer de atingir seus objetivos mais rapidamente,2,26,Vídeo
+965,82,Como Funciona O poder de atingir seus objetivos mais facilmente,3,9,Vídeo
+966,82,Como Funciona O conforto de atingir seus objetivos naturalmente,4,25,Vídeo
+967,82,Implementando O poder de ganhar mais facilmente,5,24,Vídeo
+968,82,Introdução a O poder de ganhar em estado puro,6,22,Vídeo
+969,82,Introdução a O prazer de realizar seus sonhos antes de tudo,7,15,Texto
+970,82,Como Funciona A vantagem de atingir seus objetivos com força total,8,12,Texto
+971,82,Como Funciona O conforto de inovar com força total,9,6,Quiz
+972,82,Introdução a O prazer de inovar simplesmente,10,21,Vídeo
+973,82,Como Funciona A simplicidade de concretizar seus projetos mais rapidamente,11,43,Vídeo
+974,82,Implementando A certeza de mudar com confiança,12,12,Texto
+975,83,Introdução a A vantagem de avançar de maneira eficaz,1,19,Vídeo
+976,83,Introdução a A segurança de mudar sem preocupação,2,10,Vídeo
+977,83,Implementando A possibilidade de ganhar de maneira eficaz,3,9,Texto
+978,83,Implementando O poder de realizar seus sonhos de maneira eficaz,4,10,Quiz
+979,83,Implementando A vantagem de conseguir com confiança,5,38,Vídeo
+980,83,Introdução a A arte de ganhar mais facilmente,6,23,Vídeo
+981,83,Como Funciona A segurança de realizar seus sonhos direto da fonte,7,34,Vídeo
+982,83,Introdução a O conforto de atingir seus objetivos com força total,8,13,Vídeo
+983,83,Introdução a O conforto de ganhar em estado puro,9,37,Vídeo
+984,83,Introdução a O prazer de conseguir com confiança,10,14,Texto
+985,83,Como Funciona O poder de avançar em estado puro,11,44,Vídeo
+986,83,Implementando O prazer de ganhar com confiança,12,14,Texto
+987,84,Implementando O conforto de realizar seus sonhos com toda a tranquilidade,1,8,Quiz
+988,84,Implementando A simplicidade de mudar naturalmente,2,9,Quiz
+989,84,Implementando O poder de ganhar de maneira eficaz,3,20,Texto
+990,84,Introdução a A possibilidade de realizar seus sonhos com força total,4,20,Texto
+991,84,Implementando O prazer de ganhar antes de tudo,5,17,Vídeo
+992,84,Como Funciona O direito de ganhar naturalmente,6,19,Texto
+993,84,Como Funciona A simplicidade de avançar em estado puro,7,14,Quiz
+994,84,Implementando O direito de concretizar seus projetos mais facilmente,8,11,Texto
+995,84,Introdução a O direito de mudar com força total,9,32,Vídeo
+996,84,Implementando O prazer de mudar com confiança,10,23,Vídeo
+997,84,Implementando A liberdade de inovar com toda a tranquilidade,11,6,Quiz
+998,84,Como Funciona O conforto de realizar seus sonhos com toda a tranquilidade,12,35,Vídeo
+999,84,Como Funciona O poder de mudar antes de tudo,13,22,Vídeo
+1000,84,Implementando A vantagem de ganhar mais facilmente,14,10,Vídeo
